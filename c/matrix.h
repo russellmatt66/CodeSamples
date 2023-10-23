@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+Matrix createMatrix(int, int);
+void freeMatrix(Matrix), setElement(Matrix, int, int, double);
+double getElement(Matrix, int, int);
+
 typedef struct {
     int num_rows;
     int num_cols;
