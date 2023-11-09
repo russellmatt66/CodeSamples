@@ -9,3 +9,4 @@ c/
 
 python/
 - Python is in my back pocket for writing simple scripts to plot data. 
+- It's a cool, fun language.
