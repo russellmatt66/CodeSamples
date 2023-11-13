@@ -1,3 +1,11 @@
+~~~~~~~~~~~~~ 
+LEETCODE HARD
+~~~~~~~~~~~~~
+maximumFrequencyStack/
+- LeetCode 895H problem 
+- Implemented a stack with rules for popping based around the frequency of an element's occurrence
+- Submission was in the 99th percentile for memory usage.
+
 ~~~~~~~~~~~~~~~
 LEETCODE MEDIUM
 ~~~~~~~~~~~~~~~
