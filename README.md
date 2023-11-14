@@ -9,7 +9,8 @@ rust/
 - Solutions are either to problems with low acceptance rates, or feature performance in the top percentile of speed, memory usage, or both. 
 
 c/ 
-- My C is a work in progress. I love the language, and its performance. 
+- C is the first language I learned.
+- I love the language, and its performance. 
 
 python/
 - Contains solutions to LeetCode Easy problems
