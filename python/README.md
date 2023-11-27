@@ -14,6 +14,8 @@ githubPagesMacroTranslation/
 kthGrammarVis/ 
 - Numpy and matplotlib script that visualizes data volume required to bruteforce Leetcode 779M problem
 
+PerfScripts/ 
+- Python scripts to automate the data collection process for benchmarking with hardware events using `perf stat`
 parsePerfStat.py/
 - Python script to parse the output from a call, or set of calls, of `perf stat` - with the hardware code for talking to the floating-point arithmetic counter
 - Calculates mean, and standard deviation of the dataset of program wall-times
