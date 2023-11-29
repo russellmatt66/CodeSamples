@@ -16,6 +16,3 @@ kthGrammarVis/
 
 PerfScripts/ 
 - Python scripts to automate the data collection process for benchmarking with hardware events using `perf stat`
-parsePerfStat.py/
-- Python script to parse the output from a call, or set of calls, of `perf stat` - with the hardware code for talking to the floating-point arithmetic counter
-- Calculates mean, and standard deviation of the dataset of program wall-times
