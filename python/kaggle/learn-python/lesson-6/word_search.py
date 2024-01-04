@@ -10,10 +10,7 @@ def satisfies_requirements(doc, keyword):
     while(index != -1):
         kw_locations.append(index)
         index = doc_proc.find(kw_proc, index+1)
-    
-    print(keyword)
-    print(kw_locations)
-    
+     
     # Ensure that the keywords found at these locations are not found as part of a compound word
     for k in range(len(kw_locations)):
         kw_loc = kw_locations[k]
@@ -47,7 +44,6 @@ def word_search(doc_list, keyword):
     return_list = []
     for i in range(len(doc_list)):
         doc = doc_list[i]
-        print(doc)
         if (satisfies_requirements(doc, keyword)):
             return_list.append(i)
     return return_list
