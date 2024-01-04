@@ -1,3 +1,9 @@
+~~~~~~
+KAGGLE
+~~~~~~
+kaggle/
+- Directory housing python functions written in the course of learning on Kaggle
+
 ~~~~~~~~~~~~~
 LEETCODE EASY
 ~~~~~~~~~~~~~
