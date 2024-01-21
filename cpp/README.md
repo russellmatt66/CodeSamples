@@ -1,4 +1,4 @@
-~~~~~~~~~~~~~ 
+~~~~~~~~~~~~ 
 LEETCODE HARD
 ~~~~~~~~~~~~~
 maximumFrequencyStack/
@@ -18,6 +18,10 @@ kthGrammar/
 ~~~~~~~~~~~~~ 
 LEETCODE EASY
 ~~~~~~~~~~~~~
+rangeSumBST/
+- LeetCode 938E to compute the sum of a BST's nodes which possess a value within a certain range.
+- Submission implements a recursive traversal of the BST 
+
 findTicTacToeWinner/ 
 - LeetCode 1275E problem to determine the outcome of a game of Tic-Tac-Toe. 
 - Submission was in 100th percentile for speed. 

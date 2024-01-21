@@ -13,6 +13,7 @@ c/
 - I love the language, and its performance. 
 
 python/
+- Contains code that I wrote for Kaggle Learn courses
 - Contains solutions to LeetCode Easy problems
 - Solutions are either to problems with low acceptance rates, or feature performance in the top percentile of speed, memory usage, or both. 
 - Python is mostly in my back pocket for writing simple scripts to plot data. 
