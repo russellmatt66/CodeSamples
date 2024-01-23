@@ -46,3 +46,15 @@ Rust
 Julia
 - Modern, performant, scientific computing language.
 - Interesting as a competitor to C, C++, and Python.
+
+Bash 
+- Shell scripting language.
+- Extremely useful, and powerful tool for automation. 
+
+# TODO
+- Add recent solutions to python/
+
+- Organize cpp/
+- Organize rust/
+- Organize bash/
+- Organize julia/
