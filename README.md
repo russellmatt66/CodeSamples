@@ -15,6 +15,9 @@ python/
 - Contains solutions to LeetCode Easy, and Medium problems
 - Solutions are either to problems with low acceptance rates, or feature performance in the top percentile of speed, memory usage, or both. 
 
+bash/
+- Contains bash scripts that I have written to automate various tasks
+
 rust/
 - Contains solutions to LeetCode Easy problems
 - Solutions are either to problems with low acceptance rates, or feature performance in the top percentile of speed, memory usage, or both. 
