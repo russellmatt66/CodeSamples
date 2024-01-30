@@ -1,3 +1,7 @@
+# Dependencies
+- `pandas`
+
+# Directory Structure
 extensions.txt
 - Lookup table for what file extensions to look for a given programming language that is being scanned for
 
