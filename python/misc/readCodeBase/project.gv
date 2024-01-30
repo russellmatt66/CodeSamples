@@ -1,0 +1,8 @@
+digraph readCodeBase{
+    "./extensions.txt" -> "./readCodeBase.py";
+    "path_to_root" -> "./readCodeBase.py";
+    "prog_lang" -> "./readCodeBase.py";
+    // Color CLI differently
+    "prog_lang" [shape=circle, style=filled, fillcolor=green]
+    "path_to_root" [shape=circle, style=filled, fillcolor=green]
+}

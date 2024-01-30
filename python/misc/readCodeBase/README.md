@@ -10,3 +10,11 @@ readCodeBase.py
 
 project.gv
 - Digraph of the project, showing structure, inputs, and outputs
+- CLI are represented with colored circles
+
+readCodeBase.gv
+- Digraph of the code, showing flow
+- CLI are represented with colored circles
+
+test/
+- Folder for testing and debugging various parts of the project

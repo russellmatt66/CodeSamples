@@ -17,7 +17,7 @@ def readExtensions(prog_lang: str) -> list[str]:
                 # print("Found {}".format(prog_lang))
                 # extensions = line.split('=')[1]
                 # print(extensions)
-                pattern = re.compile("'(.+?)'")
+                pattern = re.compile("'.(.+?)'")
                 matches = pattern.findall(line)
                 # print(matches)
                 # if matches:
@@ -38,6 +38,14 @@ def readCodeBase(root: str, ext_str: str, code_base_dict: dict) -> None:
     # list_of_files = [file for file in next(os.walk(root))[2] if file.split('.')[1] == ext_str] # files
     list_of_files = next(os.walk(root))[2]
     print(list_of_files)
+    for file in list_of_files:
+        dot_split = file.split('.')
+        if len(dot_split) == 1:
+            continue
+        print(file)
+        print(file.split('.'))
+        print(file.split('.')[0], file.split('.')[1])
+        # file.delete()
     # TODO Add error-handling to `list_of_files`
     return
 
@@ -62,10 +70,10 @@ codebase_dict = {}
 features = ['file_name', 'path', 'line_count']
 for feature in features:
     codebase_dict[feature] = []
-    
+
+print(codebase_dict)
+
+codebase_df = pd.DataFrame(codebase_dict)
+print(codebase_df)
+
 readCodeBase(path_to_code_base_root, ext_list[0], codebase_dict)
-# print(codebase_dict)
-
-# codebase_df = pd.DataFrame(codebase_dict)
-# print(codebase_df)
-
