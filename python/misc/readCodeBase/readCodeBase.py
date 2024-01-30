@@ -3,6 +3,7 @@ import os
 import pandas as pd 
 import re
 
+# TODO - parallelize
 # import threading
 # import concurrent.futures
 '''
@@ -57,10 +58,6 @@ MAIN CODE
 path_to_code_base_root = sys.argv[1] # Absolute path
 prog_lang = sys.argv[2] # Performing multi scan is a feature for a later day
 
-# print("Absolute path: {}".format(os.path.abspath(path_to_code_base_root)))
-# print("Relative path: {}".format(path_to_code_base_root))
-
-# TODO Add some error-handling around this
 ext_list = readExtensions(prog_lang)
 print(ext_list)
 
@@ -69,7 +66,9 @@ features = ['file_name', 'path', 'line_count']
 for feature in features:
     codebase_dict[feature] = []
 
-readCodeBase(path_to_code_base_root, ext_list[0], codebase_dict)
+# Recursive solution
+for extension in ext_list:
+    readCodeBase(path_to_code_base_root, extension, codebase_dict)
 
 codebase_df = pd.DataFrame(codebase_dict)
 
@@ -92,5 +91,3 @@ except Exception as e:
     print(f"An error occurred: {e}")
 
 codebase_df.to_csv(report_dir + "/" + "report_" + prog_lang + '.csv')
-# print(codebase_df)
-
