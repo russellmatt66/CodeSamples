@@ -2,6 +2,10 @@
 Miscellaneous projects, and code snippets.
 
 # Directory Structure
+readCodeBase.py
+- Script that scans through a code base, and compiles a report of which files have the most lines
+-
+
 githubPagesMacroTranslation/ 
 - Script that I wrote to fix a systematic formatting problem with the MathJax macro definitions for my Github Pages site
 

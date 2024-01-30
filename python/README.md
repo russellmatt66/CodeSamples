@@ -8,3 +8,6 @@ leetcode/
 
 misc/
 - Miscellaneous projects, and code snippets 
+
+weightlifting/
+- Programs to assist with my weightlifting journey
