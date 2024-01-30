@@ -41,8 +41,6 @@ def readCodeBase(root: str, ext_str: str, code_base_dict: dict) -> None:
         code_base_dict['file_name'].append(file)
         code_base_dict['path'].append(root) # This can be cleaned downstream
         code_base_dict['line_count'].append(line_count)
-    
-    # print(code_base_dict)
 
     for sub_dir in list_of_subdirs:
         readCodeBase(root + sub_dir + "/", ext_str, code_base_dict)
@@ -72,9 +70,27 @@ for feature in features:
     codebase_dict[feature] = []
 
 readCodeBase(path_to_code_base_root, ext_list[0], codebase_dict)
-# print(codebase_dict)
 
 codebase_df = pd.DataFrame(codebase_dict)
-codebase_df.to_csv('./report_' + prog_lang + '.csv')
+
+# need to calculate a name for the directory in which to put the reports
+num_fwdslash = 0
+for c in path_to_code_base_root:
+    if c == '/': num_fwdslash += 1
+
+root_components = path_to_code_base_root.split('/')
+project_name = root_components[num_fwdslash-1]
+print(project_name)
+
+report_dir = './report_' + project_name
+try: 
+    os.mkdir(report_dir)
+    print(f"Directory '{report_dir}' created successfully.")
+except FileExistsError:
+    print(f"Directory '{report_dir}' already exists.")
+except Exception as e:
+    print(f"An error occurred: {e}")
+
+codebase_df.to_csv(report_dir + "/" + "report_" + prog_lang + '.csv')
 # print(codebase_df)
 
