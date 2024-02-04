@@ -2,9 +2,12 @@
 Miscellaneous projects, and code snippets.
 
 # Directory Structure
-readCodeBase.py
-- Script that scans through a code base, and compiles a report of which files have the most lines
--
+createProject/
+- Script that creates a new project at a specified root directory. Created project has a given structure depending on specified programming language
+- `createProject.py path/to/project/root prog_lang`
+
+readCodeBase/
+- Project that scans through a code base, and compiles a report of which files have the most lines
 
 githubPagesMacroTranslation/ 
 - Script that I wrote to fix a systematic formatting problem with the MathJax macro definitions for my Github Pages site
