@@ -36,3 +36,10 @@ def templatePython(path_to_root: str) -> None:
     for dir in dir_names:
         createDir(path_to_root + dir)
     return
+
+def templateCUDA(path_to_root: str) -> None:
+    createDir(path_to_root)
+    dir_names = ['include/', 'src/', 'test/', 'data/', 'machine-learning/', 'debug/', 'build/']
+    for dir in dir_names:
+        createDir(path_to_root + dir)
+    return
