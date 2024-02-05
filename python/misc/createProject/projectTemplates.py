@@ -21,6 +21,11 @@ def templateC(path_to_root: str) -> None:
     dir_names = ['include/', 'src/', 'test/', 'data/', 'benchmarking/', 'debug/', 'build/']
     for dir in dir_names:
         createDir(path_to_root + dir)
+        if dir == 'src/':
+            with open(path_to_root + dir + 'main.c', 'w') as mainfile:
+                mainfile.write('int main(int argc, char* argv){\n\treturn 0;\n}')
+            with open(path_to_root + dir + 'CMakeLists.txt', 'w') as makefile:
+                makefile.write('# WIP')
     return
 
 def templateCpp(path_to_root: str) -> None:
@@ -28,6 +33,11 @@ def templateCpp(path_to_root: str) -> None:
     dir_names = ['include/', 'src/', 'test/', 'data/', 'benchmarking/', 'debug/', 'build/']
     for dir in dir_names:
         createDir(path_to_root + dir)
+        if dir == 'src/':
+            with open(path_to_root + dir + 'main.cpp', 'w') as mainfile:
+                mainfile.write('int main(int argc, char* argv){\n\treturn 0;\n}')
+            with open(path_to_root + dir + 'CMakeLists.txt', 'w') as makefile:
+                makefile.write('# WIP')
     return
 
 def templatePython(path_to_root: str) -> None:
@@ -42,4 +52,9 @@ def templateCUDA(path_to_root: str) -> None:
     dir_names = ['include/', 'src/', 'test/', 'data/', 'machine-learning/', 'debug/', 'build/']
     for dir in dir_names:
         createDir(path_to_root + dir)
+        if dir == 'src/':
+            with open(path_to_root + dir + 'main.cu', 'w') as mainfile:
+                mainfile.write('int main(int argc, char* argv){\n\t return 0;\n}')
+            with open(path_to_root + dir + 'CMakeLists.txt', 'w') as makefile:
+                makefile.write('# WIP')
     return
