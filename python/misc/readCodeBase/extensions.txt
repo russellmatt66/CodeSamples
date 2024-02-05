@@ -1,3 +1,3 @@
-C=['.c','.h']
+C=['.c','.h','.cpp','.hpp','.cu']
 ASSEMBLY=['.s']
 PYTHON=['.py']

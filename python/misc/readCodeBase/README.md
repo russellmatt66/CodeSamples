@@ -11,8 +11,7 @@ Report details the name of the file, path to it, and the line count, for each fi
 # Run Instructions
 - `python3 readCodeBase.py path/to/project name_of_programming_language`
 - Example: `python3 readCodeBase.py ~/someproject/ C`
-    - This command would produce a directory named `report-someproject/`, and a file `report_C.csv` inside detailing the line count for each file ending with `.c`, or `.h`, that 
-    is inside `~/someproject/`
+    - This command would produce a directory named `report-someproject/`, and a file `report_C.csv` inside detailing the line count for each file ending with `.c`, `.h`, `.cpp`, `.hpp`, or `.cu` that is inside `~/someproject/`
 
 # Future Work
 Parallelize the scanning process over the different supported file extensions, (found in 'extensions.txt'). 

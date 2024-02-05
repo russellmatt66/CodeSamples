@@ -54,7 +54,7 @@ def templateCUDA(path_to_root: str) -> None:
         createDir(path_to_root + dir)
         if dir == 'src/':
             with open(path_to_root + dir + 'main.cu', 'w') as mainfile:
-                mainfile.write('int main(int argc, char* argv){\n\t return 0;\n}')
+                mainfile.write('int main(int argc, char* argv){\n\treturn 0;\n}')
             with open(path_to_root + dir + 'CMakeLists.txt', 'w') as makefile:
                 makefile.write('# WIP')
     return
