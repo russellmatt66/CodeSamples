@@ -33,9 +33,12 @@ def countLines(path_to_file: str) -> int:
 # Recursive wrapper around the reading logic
 def readCodeBase(root: str, ext_str: str, code_base_dict: dict) -> None:
     # Get a list of all relevant files, and sub-directories in root
+    print(root)
     list_of_subdirs = next(os.walk(root))[1] # sub-directories
-    # print(list_of_subdirs)
+    print(list_of_subdirs)
+
     list_of_files = [file for file in next(os.walk(root))[2] if (len(file.split('.')) != 1) and (file.split('.')[1] == ext_str)] # files
+    print(list_of_files)
 
     for file in list_of_files:
         line_count = countLines(root + file)
