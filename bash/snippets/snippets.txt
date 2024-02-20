@@ -1,0 +1,2 @@
+objdump -t main.o
+- Looking at object file to debug linker error

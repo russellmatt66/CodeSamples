@@ -15,5 +15,8 @@ githubPagesMacroTranslation/
 kthGrammarVis/ 
 - Numpy and matplotlib script that visualizes data volume required to bruteforce Leetcode 779M problem
 
+AddIndices/
+- Python script that adds the arguments 'int i, int j, int k' to function declarations for CUDA kernels (I forgot initially)
+
 PerfScripts/ 
 - Python scripts to automate the data collection process for benchmarking with hardware events using `perf stat`
