@@ -14,13 +14,13 @@ def computeTonnage(training_lifts: pd.Series, training_days: pd.Series) -> dict:
 '''
 MAIN CODE
 '''
-path_to_lifting_numbers = sys.argv[1]
+path_to_lifting_numbers = sys.argv[1] # raw data
 
-lift_df = pd.read_csv(path_to_lifting_numbers)
+lift_df = pd.read_csv(path_to_lifting_numbers) 
 
-# WIP
+# 
 
 # Find the indices that correspond to training days
 # Store these training days
 # For a given lift, compute the tonnage on a given training day
-# Visualize the output
+# Create tonnage df / concat this to tonnage df 
