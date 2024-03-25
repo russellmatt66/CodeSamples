@@ -1,0 +1,36 @@
+[
+    Sample(0.0, ['a','b','a','c']),
+    Sample(1.0, ['a','a','b','c']),
+]
+
+0.0 | 1.0 
+---   ---
+a     a
+b     a
+a     b
+c     c
+
+
+0.0 | 1.0 
+a     a
+b     b
+a     a
+c     c
+d     e
+d     e
+f     b
+
+event_list.append(Event('end',1.0,'d'))
+event_list.append(Event('end',1.0,'d'))
+event_list.append(Event('end',1.0,'f'))
+
+0.0 | 1.0 
+a     a
+b     b
+a     a
+c     c
+d     e
+d     e
+f     b
+c     
+c     
