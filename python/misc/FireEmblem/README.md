@@ -1,3 +1,6 @@
 # Directory Structure
-trueHit.py
-- Poor approximation using random sampling
+gba_hit_mechanics/
+- Compute the true chance of hitting given the displayed chance
+
+gba_unit_analysis/
+- Data science on the GBA game units 
