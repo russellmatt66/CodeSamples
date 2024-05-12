@@ -1,5 +1,7 @@
 '''
 This would be best as a C or C++ program
+
+Also, probably best to pipe print statements to log, or get rid of most of them now that code is validated 
 '''
 import pandas as pd
 import random
@@ -16,79 +18,79 @@ def CombatRound(PlayerUnit: list, EnemyUnit: list, which_round: int) -> None:
     '''
     Unit: [HP, Hit, Dam, Crit, DblAtk]
     '''
-    print(f"Round {which_round} begins")
+    # print(f"Round {which_round} begins")
 
     # PlayerUnit First Attack
-    print("Player unit attacks")
+    # print("Player unit attacks")
     hit_roll = GetHitRoll()
     if hit_roll < PlayerUnit[1]: # Player unit hits
         crit_roll = GetCritRoll()
         if crit_roll < PlayerUnit[3]: # Player unit crits
-            print("Player unit crits!")
+            # print("Player unit crits!")
             EnemyUnit[0] -= 3.0 * PlayerUnit[2]
         else: 
-            print("Player unit hits")
+            # print("Player unit hits")
             EnemyUnit[0] -= PlayerUnit[2]
         if EnemyUnit[0] <= 0: 
-            print("Enemy unit killed")
+            # print("Enemy unit killed")
             return
-    else: 
-        print("Player unit misses")
+    # else: 
+        # print("Player unit misses")
     
     # EnemyUnit First Attack
-    print("Enemy unit attacks")
+    # print("Enemy unit attacks")
     hit_roll = GetHitRoll()
     if hit_roll < EnemyUnit[1]: # Player unit hits
         crit_roll = GetCritRoll()
         if crit_roll < EnemyUnit[3]: # Player unit crits
-            print("Enemy unit crits!")
+            # print("Enemy unit crits!")
             PlayerUnit[0] -= 3.0 * EnemyUnit[2]
         else: 
-            print("Enemy unit hits")
+            # print("Enemy unit hits")
             PlayerUnit[0] -= EnemyUnit[2]
         if PlayerUnit[0] <= 0: 
-            print("Player unit killed")
+            # print("Player unit killed")
             return
-    else: 
-        print("Enemy unit misses")
+    # else: 
+        # print("Enemy unit misses")
 
     # PlayerUnit Possible Second Attack
     if PlayerUnit[4]: # Player unit doubles enemy unit
-        print("Player unit doubles")
+        # print("Player unit doubles")
         hit_roll = GetHitRoll()
         if hit_roll < PlayerUnit[1]: # Player unit hits
             crit_roll = GetCritRoll()
             if crit_roll < PlayerUnit[3]: # Player unit crits
-                print("Player unit crits!")
+                # print("Player unit crits!")
                 EnemyUnit[0] -= 3.0 * PlayerUnit[2]
             else: 
-                print("Player unit hits")
+                # print("Player unit hits")
                 EnemyUnit[0] -= PlayerUnit[2]
             if EnemyUnit[0] <= 0: 
-                print("Enemy unit killed")
+                # print("Enemy unit killed")
                 return
-        else: 
-            print("Player unit misses")
+        # else: 
+            # print("Player unit misses")
 
     # EnemyUnit Possible Second Attack
     if EnemyUnit[4]:
-        print("Enemy unit doubles")
+        # print("Enemy unit doubles")
         hit_roll = GetHitRoll()
         if hit_roll < EnemyUnit[1]: # Player unit hits
             crit_roll = GetCritRoll()
             if crit_roll < EnemyUnit[3]: # Player unit crits
-                print("Enemy unit crits!")
+                # print("Enemy unit crits!")
                 PlayerUnit[0] -= 3.0 * EnemyUnit[2]
             else: 
-                print("Enemy unit hits")
+                # print("Enemy unit hits")
                 PlayerUnit[0] -= EnemyUnit[2]
             if PlayerUnit[0] <= 0: 
-                print("Player unit killed")
+                # print("Player unit killed")
                 return
-        else: 
-            print("Enemy unit misses")
+        # else: 
+            # print("Enemy unit misses")
         
-    print(f"Round {which_round} is over\n")
+    # print(f"Round {which_round} is over\n")
     return
 
 def parseCombatants():
@@ -129,24 +131,85 @@ PlayerUnit, EnemyUnit, PlayerHP, EnemyHP = parseCombatants()
 print("Combatants parsed\n")
 
 num_fights = 1000
+
+print(f"Simulating outcome when PlayerUnit doubles, num_fights = {num_fights}")
+PlayerUnit[4] = True
+EnemyUnit[4] = False
 count = 0
 player_wins = 0
-
 while count < num_fights:
-    print(f"Fight {count+1} begins!\n")
+    # print(f"Fight {count+1} begins!\n")
 
     num_round = 0
     while PlayerUnit[0] > 0 and EnemyUnit[0] > 0:
         CombatRound(PlayerUnit, EnemyUnit, num_round)
         num_round += 1
     
-    print(f"Fight {count+1} is over! PlayerUnit HP: {PlayerUnit[0]}, EnemyUnit HP: {EnemyUnit[0]}")
+    # print(f"Fight {count+1} is over! PlayerUnit HP: {PlayerUnit[0]}, EnemyUnit HP: {EnemyUnit[0]}")
     
     if PlayerUnit[0] > 0:
-        print("Player unit wins!\n")
+        # print("Player unit wins!\n")
         player_wins += 1
-    elif EnemyUnit[0] > 0:
-        print("Enemy unit wins\n")
+    # elif EnemyUnit[0] > 0:
+        # print("Enemy unit wins\n")
+    count += 1
+
+    # Refill HP
+    PlayerUnit[0] = PlayerHP
+    EnemyUnit[0] = EnemyHP
+
+win_chance = player_wins / num_fights
+print(f"Simulation done: PlayerUnit wins {win_chance * 100} percent of the time")
+
+print(f"Simulating outcome when EnemyUnit doubles, num_fights = {num_fights}")
+PlayerUnit[4] = False
+EnemyUnit[4] = True
+count = 0
+player_wins = 0
+while count < num_fights:
+    # print(f"Fight {count+1} begins!\n")
+
+    num_round = 0
+    while PlayerUnit[0] > 0 and EnemyUnit[0] > 0:
+        CombatRound(PlayerUnit, EnemyUnit, num_round)
+        num_round += 1
+    
+    # print(f"Fight {count+1} is over! PlayerUnit HP: {PlayerUnit[0]}, EnemyUnit HP: {EnemyUnit[0]}")
+    
+    if PlayerUnit[0] > 0:
+        # print("Player unit wins!\n")
+        player_wins += 1
+    # elif EnemyUnit[0] > 0:
+        # print("Enemy unit wins\n")
+    count += 1
+
+    # Refill HP
+    PlayerUnit[0] = PlayerHP
+    EnemyUnit[0] = EnemyHP
+
+win_chance = player_wins / num_fights
+print(f"Simulation done: PlayerUnit wins {win_chance * 100} percent of the time")
+
+print(f"Simulating outcome when no one doubles, num_fights = {num_fights}")
+PlayerUnit[4] = False
+EnemyUnit[4] = False
+count = 0
+player_wins = 0
+while count < num_fights:
+    # print(f"Fight {count+1} begins!\n")
+
+    num_round = 0
+    while PlayerUnit[0] > 0 and EnemyUnit[0] > 0:
+        CombatRound(PlayerUnit, EnemyUnit, num_round)
+        num_round += 1
+    
+    # print(f"Fight {count+1} is over! PlayerUnit HP: {PlayerUnit[0]}, EnemyUnit HP: {EnemyUnit[0]}")
+    
+    if PlayerUnit[0] > 0:
+        # print("Player unit wins!\n")
+        player_wins += 1
+    # elif EnemyUnit[0] > 0:
+        # print("Enemy unit wins\n")
     count += 1
 
     # Refill HP

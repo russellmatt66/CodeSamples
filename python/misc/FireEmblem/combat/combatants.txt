@@ -1,13 +1,13 @@
 Player Unit
-HP=21
-Hit=57
+HP=22
+Hit=70
+Dam=11
+Crit=6
+Doubles=False
+
+Enemy Unit
+HP=22
+Hit=88
 Dam=9
 Crit=3
 Doubles=True
-
-Enemy Unit
-HP=29
-Hit=41
-Dam=11
-Crit=0
-Doubles=False
