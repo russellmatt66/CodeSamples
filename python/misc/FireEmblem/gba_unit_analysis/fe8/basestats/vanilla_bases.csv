@@ -1,0 +1,45 @@
+Name ,Lv ,Class ,HP ,Str ,Skl ,Spd ,Lck ,Def ,Res ,Mov ,Con 
+Eirika ,1 ,Lord ,16 ,4 ,8 ,9 ,5 ,3 ,1 ,5 ,5 
+Seth ,1 ,Paladin ,30 ,14 ,13 ,12 ,13 ,11 ,8 ,8 ,11 
+Franz ,1 ,Cavalier ,20 ,7 ,5 ,7 ,2 ,6 ,1 ,7 ,9 
+Gilliam ,4 ,Knight ,25 ,9 ,6 ,3 ,3 ,9 ,3 ,4 ,14 
+Vanessa ,1 ,Pegasus Knight ,17 ,5 ,7 ,11 ,4 ,6 ,5 ,7 ,5 
+Moulder ,3 ,Priest ,20 ,4 ,6 ,9 ,1 ,2 ,5 ,5 ,9 
+Ross ,1 ,Journeyman ,15 ,5 ,2 ,3 ,8 ,3 ,0 ,4 ,8 
+Garcia ,4 ,Fighter ,28 ,8 ,7 ,7 ,3 ,5 ,1 ,5 ,14 
+Neimi ,1 ,Archer ,17 ,4 ,5 ,6 ,4 ,3 ,2 ,5 ,5 
+Colm ,2 ,Thief ,18 ,4 ,4 ,10 ,8 ,3 ,1 ,6 ,6 
+Artur ,2 ,Monk ,19 ,6 ,6 ,8 ,2 ,2 ,6 ,5 ,6 
+Lute ,1 ,Mage ,17 ,6 ,6 ,7 ,8 ,3 ,5 ,5 ,3 
+Natasha ,1 ,Cleric ,18 ,2 ,4 ,8 ,6 ,2 ,6 ,5 ,4 
+Joshua ,5 ,Myrmidon ,24 ,8 ,13 ,14 ,7 ,5 ,2 ,5 ,8 
+Ephraim ,4 ,Lord ,23 ,8 ,9 ,11 ,8 ,7 ,2 ,5 ,8 
+Forde ,6 ,Cavalier ,24 ,7 ,8 ,8 ,7 ,8 ,2 ,7 ,9 
+Kyle ,5 ,Cavalier ,25 ,9 ,6 ,7 ,6 ,9 ,1 ,7 ,10 
+Orson ,3 ,Paladin ,34 ,15 ,13 ,11 ,4 ,13 ,7 ,8 ,12 
+Tana ,4 ,Pegasus Knight ,20 ,7 ,9 ,13 ,8 ,6 ,7 ,7 ,5 
+Amelia ,1 ,Recruit ,16 ,4 ,3 ,4 ,6 ,2 ,3 ,4 ,6 
+Innes ,1 ,Sniper ,31 ,14 ,13 ,15 ,14 ,10 ,9 ,6 ,9 
+Gerik ,10 ,Mercenary ,32 ,14 ,13 ,13 ,8 ,10 ,4 ,5 ,13 
+Tethys ,1 ,Dancer ,18 ,1 ,2 ,12 ,10 ,5 ,4 ,5 ,5 
+Marisa ,5 ,Myrmidon ,23 ,7 ,12 ,13 ,9 ,4 ,3 ,5 ,5 
+L’Arachel ,3 ,Troubadour ,18 ,6 ,6 ,10 ,12 ,5 ,8 ,6 ,5 
+Dozla ,1 ,Berserker ,43 ,16 ,11 ,9 ,4 ,11 ,6 ,6 ,16 
+Saleh ,1 ,Sage ,30 ,16 ,18 ,14 ,11 ,8 ,13 ,6 ,8 
+Ewan ,1 ,Pupil ,15 ,3 ,2 ,5 ,5 ,0 ,3 ,4 ,5 
+Cormag ,9 ,Wyvern Rider ,30 ,14 ,9 ,10 ,4 ,12 ,2 ,7 ,11 
+Rennac ,1 ,Rogue ,28 ,10 ,16 ,17 ,5 ,9 ,11 ,6 ,7 
+Duessel ,8 ,Great Knight ,41 ,17 ,12 ,12 ,8 ,17 ,9 ,6 ,15 
+Knoll ,10 ,Shaman ,22 ,13 ,9 ,8 ,0 ,2 ,10 ,5 ,7 
+Myrrh ,1 ,Manakete ,15 ,3 ,1 ,5 ,3 ,2 ,7 ,6 ,5 
+Syrene ,1 ,Falcoknight ,27 ,12 ,13 ,15 ,12 ,10 ,12 ,8 ,7 
+Caellach ,12 ,Hero ,47 ,19 ,14 ,13 ,14 ,15 ,13 ,6 ,13 
+Orson ,13 ,Paladin ,48 ,18 ,15 ,14 ,6 ,14 ,11 ,8 ,12 
+Riev ,16 ,Bishop ,49 ,14 ,21 ,19 ,9 ,16 ,18 ,6 ,7 
+Ismaire ,9 ,Swordmaster ,33 ,16 ,20 ,23 ,12 ,8 ,15 ,6 ,7 
+Selena ,11 ,Mage Knight ,38 ,13 ,13 ,16 ,10 ,11 ,17 ,7 ,6 
+Glen ,12 ,Wyvern Lord ,46 ,20 ,17 ,13 ,7 ,18 ,5 ,8 ,12 
+Hayden ,10 ,Ranger ,37 ,17 ,14 ,15 ,17 ,12 ,12 ,7 ,10 
+Valter ,13 ,Wyvern Knight ,45 ,19 ,17 ,17 ,3 ,13 ,12 ,8 ,11 
+Fado ,11 ,General ,46 ,20 ,14 ,12 ,5 ,18 ,11 ,5 ,18 
+Lyon ,14 ,Necromancer ,44 ,22 ,13 ,11 ,4 ,17 ,19 ,6 ,7 
