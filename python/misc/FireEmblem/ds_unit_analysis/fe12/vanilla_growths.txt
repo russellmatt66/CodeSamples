@@ -1,0 +1,729 @@
+Name 	Class 	HP 	Str 	Mag 	Skl 	Spd 	Lck 	Def 	Res
+Marth 	Lord 	90 	60 	0 	65 	65 	80 	30 	5
+My Unit Peg / Falco / Draco Knight 	60 	35 	0 	50 	55 	60 	30 	10
+My Unit Cavalier / Paladin 	70 	40 	5 	55 	40 	60 	35 	5
+My Unit Knight / General 	90 	40 	0 	50 	30 	60 	50 	0
+My Unit Archer / Sniper 	70 	35 	5 	50 	60 	60 	30 	0
+My Unit Mercenary / Hero 	80 	45 	0 	55 	50 	60 	30 	0
+My Unit Myrmidon / Swordmaster 	70 	35 	5 	50 	60 	60 	25 	5
+My Unit Fighter / Warrior 	100 	65 	0 	55 	40 	60 	25 	0
+My Unit Hunter / Horseman 	70 	45 	0 	45 	55 	60 	25 	0
+My Unit Pirate / Berserker 	100 	55 	0 	45 	60 	60 	20 	0
+My Unit Dark Mage / Sorcerer 	50 	10 	35 	50 	50 	60 	5 	30
+My Unit Mage 	50 	15 	45 	50 	45 	60 	5 	20
+My Unit Sage / Bishop 	50 	10 	35 	50 	50 	60 	5 	30
+My Unit Curate / Cleric 	50 	10 	25 	45 	50 	60 	10 	40
+Luke 	Cavalier / Paladin 	90 	60 	0 	50 	50 	40 	40 	5
+Luke    Dracoknight 	80 	55 	0 	45 	65 	40 	35 	10
+Luke    Archer / Sniper 	90 	55 	0 	45 	70 	40 	35 	0
+Luke    Myrmidon / Swordmaster 	90 	55 	0 	45 	70 	40 	30 	5
+Luke    Mage 	70 	35 	30 	45 	55 	40 	10 	20
+Luke    Sage / Bishop 	70 	30 	20 	45 	60 	40 	10 	30
+Luke    Curate 	70 	30 	10 	40 	60 	40 	15 	40
+Luke 	Knight / General 	110 	60 	0 	45 	40 	40 	55 	0
+Luke    Mercenary / Hero 	100 	65 	0 	50 	60 	40 	35 	0
+Luke    Fighter / Warrior 	120 	85 	0 	50 	50 	40 	30 	0
+Luke    Hunter / Horseman 	90 	65 	0 	40 	65 	40 	30 	0
+Luke    Pirate / Berserker 	120 	75 	0 	40 	70 	40 	25 	0
+Luke    Dark Mage / Sorcerer 	70 	30 	20 	45 	60 	40 	10 	30
+Rody 	Cavalier / Paladin 	80 	50 	0 	60 	65 	60 	40 	5
+Rody    Dracoknight 	70 	45 	0 	55 	80 	60 	35 	10
+Rody    Archer / Sniper 	80 	45 	0 	55 	85 	60 	35 	0
+Rody    Myrmidon / Swordmaster 	80 	45 	0 	55 	85 	60 	30 	5
+Rody    Mage 	60 	25 	30 	55 	70 	60 	10 	20
+Rody    Sage / Bishop 	60 	20 	20 	55 	75 	60 	10 	30
+Rody    Curate 	60 	20 	10 	50 	75 	60 	15 	40
+Cecil 	Peg / Falco / Draco Knight 	60 	40 	5 	65 	90 	50 	25 	10
+Cecil   Cavalier / Paladin 	70 	45 	10 	70 	75 	50 	30 	5
+Cecil   General 	90 	45 	5 	65 	65 	50 	45 	0
+Cecil   Archer / Sniper 	70 	40 	10 	65 	95 	50 	25 	0
+Cecil   Myrmidon / Swordmaster 	70 	40 	10 	65 	95 	50 	20 	5
+Cecil   Mage 	50 	20 	50 	65 	80 	50 	0 	20
+Cecil   Sage / Bishop 	50 	15 	40 	65 	85 	50 	0 	30
+Cecil   Cleric 	50 	15 	30 	60 	85 	50 	5 	40
+Gordin 	Cavalier / Paladin 	70 	45 	0 	45 	20 	50 	35 	5
+Gordin  Dracoknight 	60 	40 	0 	40 	35 	50 	30 	10
+Gordin  Archer / Sniper 	70 	40 	0 	40 	40 	50 	30 	0
+Gordin  Myrmidon / Swordmaster 	70 	40 	0 	40 	40 	50 	25 	5
+Gordin  Mage 	50 	20 	30 	40 	25 	50 	5 	20
+Gordin  Sage / Bishop 	50 	15 	20 	40 	30 	50 	5 	30
+Gordin  Curate 	50 	15 	10 	35 	30 	50 	10 	40
+Rody 	Knight / General 	100 	50 	0 	55 	55 	60 	55 	0
+Rody    Mercenary / Hero 	90 	55 	0 	60 	75 	60 	35 	0
+Rody    Fighter / Warrior 	110 	75 	0 	60 	65 	60 	30 	0
+Rody    Hunter / Horseman 	80 	55 	0 	50 	80 	60 	30 	0
+Rody    Pirate / Berserker 	110 	65 	0 	50 	85 	60 	25 	0
+Rody    Dark Mage / Sorcerer 	60 	20 	20 	55 	75 	60 	10 	30
+Gordin 	Knight / General 	90 	45 	0 	40 	10 	50 	50 	0
+Gordin  Mercenary / Hero 	80 	50 	0 	45 	30 	50 	30 	0
+Gordin  Fighter / Warrior 	100 	70 	0 	45 	20 	50 	25 	0
+Gordin  Hunter / Horseman 	70 	50 	0 	35 	35 	50 	25 	0
+Gordin  Pirate / Berserker 	100 	60 	0 	35 	40 	50 	20 	0
+Gordin  Dark Mage / Sorcerer 	50 	15 	20 	40 	30 	50 	5 	30
+Ryan 	Cavalier / Paladin 	80 	55 	0 	85 	30 	40 	40 	5
+Ryan    Dracoknight 	70 	50 	0 	80 	45 	40 	35 	10
+Ryan    Archer / Sniper 	80 	50 	0 	80 	50 	40 	35 	0
+Ryan    Myrmidon / Swordmaster 	80 	50 	0 	80 	50 	40 	30 	5
+Ryan    Mage 	60 	30 	30 	80 	35 	40 	10 	20
+Ryan    Sage / Bishop 	60 	25 	20 	80 	40 	40 	10 	30
+Ryan    Curate 	60 	25 	10 	75 	40 	40 	15 	40
+Draug 	Knight / General 	80 	40 	0 	50 	50 	40 	55 	0
+Draug   Mercenary / Hero 	70 	45 	0 	55 	70 	40 	35 	0
+Draug   Fighter / Warrior 	90 	65 	0 	55 	60 	40 	30 	0
+Draug   Hunter / Horseman 	60 	45 	0 	45 	75 	40 	30 	0
+Draug   Pirate / Berserker 	90 	55 	0 	45 	80 	40 	25 	0
+Draug   Dark Mage / Sorcerer 	40 	10 	20 	50 	70 	40 	10 	30
+Arran 	Paladin 	40 	15 	0 	25 	10 	10 	15 	0
+Arran   Dracoknight 	30 	10 	0 	20 	25 	10 	10 	0
+Arran   Sniper 	40 	10 	0 	20 	30 	10 	10 	0
+Arran   Swordmaster 	40 	10 	0 	20 	30 	10 	5 	0
+Arran   Sage / Bishop 	20 	0 	20 	20 	20 	10 	0 	20
+Malliesia 	Peg / Falco / Draco Knight 	60 	10 	15 	35 	65 	40 	40 	10
+Malliesia   Cavalier / Paladin 	70 	15 	20 	40 	50 	40 	45 	5
+Malliesia   General 	90 	15 	15 	35 	40 	40 	60 	0
+Malliesia   Archer / Sniper 	70 	10 	20 	35 	70 	40 	40 	0
+Malliesia   Myrmidon / Swordmaster 	70 	10 	20 	35 	70 	40 	35 	5
+Malliesia   Mage 	50 	0 	60 	35 	55 	40 	15 	20
+Malliesia   Sage / Bishop 	50 	0 	50 	35 	60 	40 	15 	30
+Malliesia   Cleric 	50 	0 	40 	30 	60 	40 	20 	40
+Ryan 	Knight / General 	100 	55 	0 	80 	20 	40 	55 	0
+Ryan    Mercenary / Hero 	90 	60 	0 	85 	40 	40 	35 	0
+Ryan    Fighter / Warrior 	110 	80 	0 	85 	30 	40 	30 	0
+Ryan    Hunter / Horseman 	80 	60 	0 	75 	45 	40 	30 	0
+Ryan    Pirate / Berserker 	110 	70 	0 	75 	50 	40 	25 	0
+Ryan    Dark Mage / Sorcerer 	60 	25 	20 	80 	40 	40 	10 	30
+Draug 	Cavalier / Paladin 	60 	40 	0 	55 	60 	40 	40 	5
+Draug   Dracoknight 	50 	35 	0 	50 	75 	40 	35 	10
+Draug   Archer / Sniper 	60 	35 	0 	50 	80 	40 	35 	0
+Draug   Myrmidon / Swordmaster 	60 	35 	0 	50 	80 	40 	30 	5
+Draug   Mage 	40 	15 	30 	50 	65 	40 	10 	20
+Draug   Sage / Bishop 	40 	10 	20 	50 	70 	40 	10 	30
+Draug   Curate 	40 	10 	10 	45 	70 	40 	15 	40
+Arran 	General 	60 	15 	0 	20 	0 	10 	30 	0
+Arran   Hero 	50 	20 	0 	25 	20 	10 	10 	0
+Arran   Warrior 	70 	40 	0 	25 	10 	10 	5 	0
+Arran   Horseman 	40 	20 	0 	15 	25 	10 	5 	0
+Arran   Berserker 	70 	30 	0 	15 	30 	10 	0 	0
+Arran   Sorcerer 	20 	0 	20 	20 	20 	10 	0 	20
+Catria 	Peg / Falco / Draco Knight 	80 	50 	0 	80 	80 	50 	30 	10
+Catria  Cavalier / Paladin 	90 	55 	0 	85 	65 	50 	35 	5
+Catria  General 	110 	55 	0 	80 	55 	50 	50 	0
+Catria  Archer / Sniper 	90 	50 	0 	80 	85 	50 	30 	0
+Catria  Myrmidon / Swordmaster 	90 	50 	0 	80 	85 	50 	25 	5
+Catria  Mage 	70 	30 	40 	80 	70 	50 	5 	20
+Catria  Sage / Bishop 	70 	25 	30 	80 	75 	50 	5 	30
+Catria  Cleric 	70 	25 	20 	75 	75 	50 	10 	40
+Warren 	Knight / General 	100 	55 	0 	65 	15 	40 	55 	0
+Warren  Mercenary / Hero 	90 	60 	0 	70 	35 	40 	35 	0
+Warren  Fighter / Warrior 	110 	80 	0 	70 	25 	40 	30 	0
+Warren  Hunter / Horseman 	80 	60 	0 	60 	40 	40 	30 	0
+Warren  Pirate / Berserker 	110 	70 	0 	60 	45 	40 	25 	0
+Warren  Dark Mage / Sorcerer 	60 	25 	20 	65 	35 	40 	10 	30
+Cord 	Knight / General 	90 	35 	0 	35 	40 	50 	45 	0
+Cord    Mercenary / Hero 	80 	40 	0 	40 	60 	50 	25 	0
+Cord    Fighter / Warrior 	100 	60 	0 	40 	50 	50 	20 	0
+Cord    Hunter / Horseman 	70 	40 	0 	30 	65 	50 	20 	0
+Cord    Pirate / Berserker 	100 	50 	0 	30 	70 	50 	15 	0
+Cord    Dark Mage / Sorcerer 	50 	5 	30 	35 	60 	50 	0 	30
+Warren 	Cavalier / Paladin 	80 	55 	0 	70 	25 	40 	40 	5
+Warren  Dracoknight 	70 	50 	0 	65 	40 	40 	35 	10
+Warren  Archer / Sniper 	80 	50 	0 	65 	45 	40 	35 	0
+Warren  Myrmidon / Swordmaster 	80 	50 	0 	65 	45 	40 	30 	5
+Warren  Mage 	60 	30 	30 	65 	30 	40 	10 	20
+Warren  Sage / Bishop 	60 	25 	20 	65 	35 	40 	10 	30
+Warren  Curate 	60 	25 	10 	60 	35 	40 	15 	40
+Cord 	Cavalier / Paladin 	70 	35 	0 	40 	50 	50 	30 	5
+Cord    Dracoknight 	60 	30 	0 	35 	65 	50 	25 	10
+Cord    Archer / Sniper 	70 	30 	0 	35 	70 	50 	25 	0
+Cord    Myrmidon / Swordmaster 	70 	30 	0 	35 	70 	50 	20 	5
+Cord    Mage 	50 	10 	40 	35 	55 	50 	0 	20
+Cord    Sage / Bishop 	50 	5 	30 	35 	60 	50 	0 	30
+Cord    Curate 	50 	5 	20 	30 	60 	50 	5 	40
+Linde 	Peg / Falco / Draco Knight 	50 	20 	0 	80 	80 	80 	30 	5
+Linde   Cavalier / Paladin 	60 	25 	0 	85 	65 	80 	35 	0
+Linde   General 	80 	25 	0 	80 	55 	80 	50 	0
+Linde   Archer / Sniper 	60 	20 	0 	80 	85 	80 	30 	0
+Linde   Myrmidon / Swordmaster 	60 	20 	0 	80 	85 	80 	25 	0
+Linde   Mage 	40 	0 	40 	80 	70 	80 	5 	15
+Linde   Sage / Bishop 	40 	0 	30 	80 	75 	80 	5 	25
+Linde   Cleric 	40 	0 	20 	75 	75 	80 	10 	35
+Palla 	Peg / Falco / Draco Knight 	70 	60 	0 	90 	30 	20 	30 	10
+Palla   Cavalier / Paladin 	80 	65 	0 	95 	15 	20 	35 	5
+Palla   General 	100 	65 	0 	90 	5 	20 	50 	0
+Palla   Archer / Sniper 	80 	60 	0 	90 	35 	20 	30 	0
+Palla   Myrmidon / Swordmaster 	80 	60 	0 	90 	35 	20 	25 	5
+Palla   Mage 	60 	40 	40 	90 	20 	20 	5 	20
+Palla   Sage / Bishop 	60 	35 	30 	90 	25 	20 	5 	30
+Palla   Cleric 	60 	35 	20 	85 	25 	20 	10 	40
+Bord 	Knight / General 	90 	40 	0 	60 	20 	45 	45 	0
+Bord    Mercenary / Hero 	80 	45 	0 	65 	40 	45 	25 	0
+Bord    Fighter / Warrior 	100 	65 	0 	65 	30 	45 	20 	0
+Bord    Hunter / Horseman 	70 	45 	0 	55 	45 	45 	20 	0
+Bord    Pirate / Berserker 	100 	55 	0 	55 	50 	45 	15 	0
+Bord    Dark Mage / Sorcerer 	50 	10 	20 	60 	40 	45 	0 	20
+Bord 	Cavalier / Paladin 	70 	40 	0 	65 	30 	45 	30 	0
+Bord    Dracoknight 	60 	35 	0 	60 	45 	45 	25 	0
+Bord    Archer / Sniper 	70 	35 	0 	60 	50 	45 	25 	0
+Bord    Myrmidon / Swordmaster 	70 	35 	0 	60 	50 	45 	20 	0
+Bord    Mage 	50 	15 	30 	60 	35 	45 	0 	10
+Bord    Sage / Bishop 	50 	10 	20 	60 	40 	45 	0 	20
+Bord    Curate 	50 	10 	10 	55 	40 	45 	5 	30
+Julian 	Thief 	80 	70 	0 	60 	70 	80 	40 	0
+Matthis 	Cavalier / Paladin 	100 	50 	0 	40 	30 	30 	30 	5
+Matthis Dracoknight 	90 	45 	0 	35 	45 	30 	25 	10
+Matthis Archer / Sniper 	100 	45 	0 	35 	50 	30 	25 	0
+Matthis Myrmidon / Swordmaster 	100 	45 	0 	35 	50 	30 	20 	5
+Matthis Mage 	80 	25 	40 	35 	35 	30 	0 	20
+Matthis Sage / Bishop 	80 	20 	30 	35 	40 	30 	0 	30
+Matthis Curate 	80 	20 	20 	30 	40 	30 	5 	40
+Wrys 	Cavalier / Paladin 	50 	15 	10 	40 	20 	50 	30 	15
+Wrys    Dracoknight 	40 	10 	5 	35 	35 	50 	25 	20
+Wrys    Archer / Sniper 	50 	10 	10 	35 	40 	50 	25 	10
+Wrys    Myrmidon / Swordmaster 	50 	10 	10 	35 	40 	50 	20 	15
+Wrys    Mage 	30 	0 	50 	35 	25 	50 	0 	30
+Wrys    Sage / Bishop 	30 	0 	40 	35 	30 	50 	0 	40
+Wrys    Curate 	30 	0 	30 	30 	30 	50 	5 	50
+Ogma 	Knight / General 	110 	55 	0 	50 	30 	60 	45 	5
+Ogma    Mercenary / Hero 	100 	60 	0 	55 	50 	60 	25 	5
+Ogma    Fighter / Warrior 	120 	80 	0 	55 	40 	60 	20 	0
+Ogma    Hunter / Horseman 	90 	60 	0 	45 	55 	60 	20 	0
+Ogma    Pirate / Berserker 	120 	70 	0 	45 	60 	60 	15 	0
+Ogma    Dark Mage / Sorcerer 	70 	25 	20 	50 	50 	60 	0 	35
+Yumina 	Peg / Falco / Draco Knight 	50 	10 	5 	50 	65 	50 	40 	10
+Yumina  Cavalier / Paladin 	60 	15 	10 	55 	50 	50 	45 	5
+Yumina  General 	80 	15 	5 	50 	40 	50 	60 	0
+Yumina  Archer / Sniper 	60 	10 	10 	50 	70 	50 	40 	0
+Yumina  Myrmidon / Swordmaster 	60 	10 	10 	50 	70 	50 	35 	5
+Yumina  Mage 	40 	0 	50 	50 	55 	50 	15 	20
+Yumina  Sage / Bishop 	40 	0 	40 	50 	60 	50 	15 	30
+Yumina  Cleric 	40 	0 	30 	45 	60 	50 	20 	40
+Yubello 	Cavalier / Paladin 	70 	15 	10 	45 	45 	50 	50 	5
+Yubello Dracoknight 	60 	10 	5 	40 	60 	50 	45 	10
+Yubello Archer / Sniper 	70 	10 	10 	40 	65 	50 	45 	0
+Yubello Myrmidon / Swordmaster 	70 	10 	10 	40 	65 	50 	40 	5
+Yubello Mage 	50 	0 	50 	40 	50 	50 	20 	20
+Yubello Sage / Bishop 	50 	0 	40 	40 	55 	50 	20 	30
+Yubello Curate 	50 	0 	30 	35 	55 	50 	25 	40
+Sirius 	Paladin 	95 	65 	0 	60 	50 	60 	50 	5
+Sirius  Dracoknight 	85 	60 	0 	55 	65 	60 	45 	10
+Sirius  Sniper 	95 	60 	0 	55 	70 	60 	45 	0
+Sirius  Swordmaster 	95 	60 	0 	55 	70 	60 	40 	5
+Sirius  Sage / Bishop 	75 	35 	30 	55 	60 	60 	20 	30
+Matthis 	Knight / General 	120 	50 	0 	35 	20 	30 	45 	0
+Matthis Mercenary / Hero 	110 	55 	0 	40 	40 	30 	25 	0
+Matthis Fighter / Warrior 	130 	75 	0 	40 	30 	30 	20 	0
+Matthis Hunter / Horseman 	100 	55 	0 	30 	45 	30 	20 	0
+Matthis Pirate / Berserker 	130 	65 	0 	30 	50 	30 	15 	0
+Matthis Dark Mage / Sorcerer 	80 	20 	30 	35 	40 	30 	0 	30
+Wrys 	Knight / General 	70 	15 	5 	35 	10 	50 	45 	10
+Wrys    Mercenary / Hero 	60 	20 	0 	40 	30 	50 	25 	10
+Wrys    Fighter / Warrior 	80 	40 	0 	40 	20 	50 	20 	5
+Wrys    Hunter / Horseman 	50 	20 	5 	30 	35 	50 	20 	5
+Wrys    Pirate / Berserker 	80 	30 	0 	30 	40 	50 	15 	5
+Wrys    Dark Mage / Sorcerer 	30 	0 	40 	35 	30 	50 	0 	40
+Ogma 	Cavalier / Paladin 	90 	55 	0 	55 	40 	60 	30 	10
+Ogma    Dracoknight 	80 	50 	0 	50 	55 	60 	25 	15
+Ogma    Archer / Sniper 	90 	50 	0 	50 	60 	60 	25 	5
+Ogma    Myrmidon / Swordmaster 	90 	50 	0 	50 	60 	60 	20 	10
+Ogma    Mage 	70 	30 	30 	50 	45 	60 	0 	25
+Ogma    Sage / Bishop 	70 	25 	20 	50 	50 	60 	0 	35
+Ogma    Curate 	70 	25 	10 	45 	50 	60 	5 	45
+Yubello 	Knight / General 	90 	15 	5 	40 	35 	50 	65 	0
+Yubello Mercenary / Hero 	80 	20 	0 	45 	55 	50 	45 	0
+Yubello Fighter / Warrior 	100 	40 	0 	45 	45 	50 	40 	0
+Yubello Hunter / Horseman 	70 	20 	5 	35 	60 	50 	40 	0
+Yubello Pirate / Berserker 	100 	30 	0 	35 	65 	50 	35 	0
+Yubello Dark Mage / Sorcerer 	50 	0 	40 	40 	55 	50 	20 	30
+Sirius 	General 	115 	65 	0 	55 	40 	60 	65 	0
+Sirius  Hero 	105 	70 	0 	60 	60 	60 	45 	0
+Sirius  Warrior 	125 	90 	0 	60 	50 	60 	40 	0
+Sirius  Horseman 	95 	70 	0 	50 	65 	60 	40 	0
+Sirius  Berserker 	125 	80 	0 	50 	70 	60 	35 	0
+Sirius  Sorcerer 	75 	35 	30 	55 	60 	60 	20 	30
+Castor 	Cavalier / Paladin 	70 	45 	0 	60 	35 	30 	25 	0
+Castor  Dracoknight 	60 	40 	0 	55 	50 	30 	20 	5
+Castor  Archer / Sniper 	70 	40 	0 	55 	55 	30 	20 	0
+Castor  Myrmidon / Swordmaster 	70 	40 	0 	55 	55 	30 	15 	0
+Castor  Mage 	50 	20 	40 	55 	40 	30 	0 	15
+Castor  Sage / Bishop 	50 	15 	30 	55 	45 	30 	0 	25
+Castor  Curate 	50 	15 	20 	50 	45 	30 	0 	35
+Castor 	Knight / General 	90 	45 	0 	55 	25 	30 	40 	0
+Castor  Mercenary / Hero 	80 	50 	0 	60 	45 	30 	20 	0
+Castor  Fighter / Warrior 	100 	70 	0 	60 	35 	30 	15 	0
+Castor  Hunter / Horseman 	70 	50 	0 	50 	50 	30 	15 	0
+Castor  Pirate / Berserker 	100 	60 	0 	50 	55 	30 	10 	0
+Castor  Dark Mage / Sorcerer 	50 	15 	30 	55 	45 	30 	0 	25
+Shiida 	Peg / Falco / Draco Knight 	60 	30 	0 	80 	95 	80 	25 	10
+Shiida  Cavalier / Paladin 	70 	35 	0 	85 	80 	80 	30 	5
+Shiida  General 	90 	35 	0 	80 	70 	80 	45 	0
+Shiida  Archer / Sniper 	70 	30 	0 	80 	100 	80 	25 	0
+Shiida  Myrmidon / Swordmaster 	70 	30 	0 	80 	100 	80 	20 	5
+Shiida  Mage 	50 	10 	40 	80 	85 	80 	0 	20
+Shiida  Sage / Bishop 	50 	5 	30 	80 	90 	80 	0 	30
+Shiida  Cleric 	50 	5 	20 	75 	90 	80 	5 	40
+Barst 	Knight / General 	90 	45 	0 	55 	30 	50 	50 	0
+Barst   Mercenary / Hero 	80 	50 	0 	60 	50 	50 	30 	0
+Barst   Fighter / Warrior 	100 	70 	0 	60 	40 	50 	25 	0
+Barst   Hunter / Horseman 	70 	50 	0 	50 	55 	50 	25 	0
+Barst   Pirate / Berserker 	100 	60 	0 	50 	60 	50 	20 	0
+Barst   Dark Mage / Sorcerer 	50 	15 	20 	55 	50 	50 	5 	20
+Barst 	Cavalier / Paladin 	70 	45 	0 	60 	40 	50 	35 	0
+Barst   Dracoknight 	60 	40 	0 	55 	55 	50 	30 	0
+Barst   Archer / Sniper 	70 	40 	0 	55 	60 	50 	30 	0
+Barst   Myrmidon / Swordmaster 	70 	40 	0 	55 	60 	50 	25 	0
+Barst   Mage 	50 	20 	30 	55 	45 	50 	5 	10
+Barst   Sage / Bishop 	50 	15 	20 	55 	50 	50 	5 	20
+Barst   Curate 	50 	15 	10 	50 	50 	50 	10 	30
+Rickard 	Thief 	60 	40 	0 	30 	70 	60 	30 	0
+Frey 	Cavalier / Paladin 	90 	45 	0 	65 	65 	55 	40 	5
+Frey    Dracoknight 	80 	40 	0 	60 	80 	55 	35 	10
+Frey    Archer / Sniper 	90 	40 	0 	60 	85 	55 	35 	0
+Frey    Myrmidon / Swordmaster 	90 	40 	0 	60 	85 	55 	30 	5
+Frey    Mage 	70 	20 	35 	60 	70 	55 	10 	20
+Frey    Sage / Bishop 	70 	15 	25 	60 	75 	55 	10 	30
+Frey    Curate 	70 	15 	15 	55 	75 	55 	15 	40
+Norne 	Peg / Falco / Draco Knight 	60 	35 	0 	50 	60 	50 	30 	10
+Norne   Cavalier / Paladin 	70 	40 	0 	55 	45 	50 	35 	5
+Norne   General 	90 	40 	0 	50 	35 	50 	50 	0
+Norne   Archer / Sniper 	70 	35 	0 	50 	65 	50 	30 	0
+Norne   Myrmidon / Swordmaster 	70 	35 	0 	50 	65 	50 	25 	5
+Norne   Mage 	50 	15 	30 	50 	50 	50 	5 	20
+Norne   Sage / Bishop 	50 	10 	20 	50 	55 	50 	5 	30
+Norne   Cleric 	50 	10 	10 	45 	55 	50 	10 	40
+Samto 	Cavalier / Paladin 	80 	35 	0 	35 	50 	30 	30 	0
+Samto   Dracoknight 	70 	30 	0 	30 	65 	30 	25 	5
+Samto   Archer / Sniper 	80 	30 	0 	30 	70 	30 	25 	0
+Samto   Myrmidon / Swordmaster 	80 	30 	0 	30 	70 	30 	20 	0
+Samto   Mage 	60 	10 	30 	30 	55 	30 	0 	15
+Samto   Sage / Bishop 	60 	5 	20 	30 	60 	30 	0 	25
+Samto   Curate 	60 	5 	10 	25 	60 	30 	5 	35
+Frey 	Knight / General 	110 	45 	0 	60 	55 	55 	55 	0
+Frey    Mercenary / Hero 	100 	50 	0 	65 	75 	55 	35 	0
+Frey    Fighter / Warrior 	120 	70 	0 	65 	65 	55 	30 	0
+Frey    Hunter / Horseman 	90 	50 	0 	55 	80 	55 	30 	0
+Frey    Pirate / Berserker 	120 	60 	0 	55 	85 	55 	25 	0
+Frey    Dark Mage / Sorcerer 	70 	15 	25 	60 	75 	55 	10 	30
+Samto 	Knight / General 	100 	35 	0 	30 	40 	30 	45 	0
+Samto   Mercenary / Hero 	90 	40 	0 	35 	60 	30 	25 	0
+Samto   Fighter / Warrior 	110 	60 	0 	35 	50 	30 	20 	0
+Samto   Hunter / Horseman 	80 	40 	0 	25 	65 	30 	20 	0
+Samto   Pirate / Berserker 	110 	50 	0 	25 	70 	30 	15 	0
+Samto   Dark Mage / Sorcerer 	60 	5 	20 	30 	60 	30 	0 	25
+Wendell 	General 	80 	25 	0 	40 	10 	50 	65 	0
+Wendell Hero 	70 	30 	0 	45 	30 	50 	45 	0
+Wendell Warrior 	90 	50 	0 	45 	20 	50 	40 	0
+Wendell Horseman 	60 	30 	0 	35 	35 	50 	40 	0
+Wendell Berserker 	90 	40 	0 	35 	40 	50 	35 	0
+Wendell Sorcerer 	40 	0 	20 	40 	30 	50 	20 	25
+Wendell 	Paladin 	60 	25 	0 	45 	20 	50 	50 	0
+Wendell Dracoknight 	50 	20 	0 	40 	35 	50 	45 	5
+Wendell Sniper 	60 	20 	0 	40 	40 	50 	45 	0
+Wendell Swordmaster 	60 	20 	0 	40 	40 	50 	40 	0
+Wendell Sage / Bishop 	40 	0 	20 	40 	30 	50 	20 	25
+Caesar 	Knight / General 	100 	45 	0 	40 	35 	30 	45 	0
+Caesar  Mercenary / Hero 	90 	50 	0 	45 	55 	30 	25 	0
+Caesar  Fighter / Warrior 	110 	70 	0 	45 	45 	30 	20 	0
+Caesar  Hunter / Horseman 	80 	50 	0 	35 	60 	30 	20 	0
+Caesar  Pirate / Berserker 	110 	60 	0 	35 	65 	30 	15 	0
+Caesar  Dark Mage / Sorcerer 	60 	15 	30 	40 	55 	30 	0 	30
+Radd 	Cavalier / Paladin 	80 	55 	0 	50 	45 	50 	30 	5
+Radd    Dracoknight 	70 	50 	0 	45 	60 	50 	25 	10
+Radd    Archer / Sniper 	80 	50 	0 	45 	65 	50 	25 	0
+Radd    Myrmidon / Swordmaster 	80 	50 	0 	45 	65 	50 	20 	5
+Radd    Mage 	60 	30 	30 	45 	50 	50 	0 	20
+Radd    Sage / Bishop 	60 	25 	20 	45 	55 	50 	0 	30
+Radd    Curate 	60 	25 	10 	40 	55 	50 	5 	40
+Nabarl 	Cavalier / Paladin 	90 	50 	0 	55 	50 	70 	30 	5
+Nabarl  Dracoknight 	80 	45 	0 	50 	65 	70 	25 	10
+Nabarl  Archer / Sniper 	90 	45 	0 	50 	70 	70 	25 	0
+Nabarl  Myrmidon / Swordmaster 	90 	45 	0 	50 	70 	70 	20 	5
+Nabarl  Mage 	70 	25 	30 	50 	55 	70 	0 	20
+Nabarl  Sage / Bishop 	70 	20 	20 	50 	60 	70 	0 	30
+Nabarl  Curate 	70 	20 	10 	45 	60 	70 	5 	40
+Feena 	Dancer 	60 	60 	0 	80 	90 	80 	15 	5
+Cain 	Cavalier / Paladin 	90 	40 	0 	70 	70 	70 	35 	5
+Cain    Dracoknight 	80 	35 	0 	65 	85 	70 	30 	10
+Cain    Archer / Sniper 	90 	35 	0 	65 	90 	70 	30 	0
+Cain    Myrmidon / Swordmaster 	90 	35 	0 	65 	90 	70 	25 	5
+Cain    Mage 	70 	15 	30 	65 	75 	70 	5 	20
+Cain    Sage / Bishop 	70 	10 	20 	65 	80 	70 	5 	30
+Cain    Curate 	70 	10 	10 	60 	80 	70 	10 	40
+Bantu 	Manakete 	40 	20 	10 	20 	10 	10 	10 	5
+Roger 	Knight / General 	80 	60 	0 	50 	40 	70 	55 	0
+Roger   Mercenary / Hero 	70 	65 	0 	55 	60 	70 	35 	0
+Roger   Fighter / Warrior 	90 	85 	0 	55 	50 	70 	30 	0
+Roger   Hunter / Horseman 	60 	65 	0 	45 	65 	70 	30 	0
+Roger   Pirate / Berserker 	90 	75 	0 	45 	70 	70 	25 	0
+Roger   Dark Mage / Sorcerer 	40 	30 	20 	50 	60 	70 	10 	30
+Jeorge 	Paladin 	80 	45 	0 	40 	25 	50 	45 	5
+Jeorge  Dracoknight 	70 	40 	0 	35 	40 	50 	40 	10
+Jeorge  Sniper 	80 	40 	0 	35 	45 	50 	40 	0
+Jeorge  Swordmaster 	80 	40 	0 	35 	45 	50 	35 	5
+Jeorge  Sage / Bishop 	60 	15 	20 	35 	35 	50 	15 	30
+Minerva 	Dracoknight 	80 	50 	0 	60 	50 	60 	30 	5
+Minerva Paladin 	90 	55 	0 	65 	35 	60 	35 	0
+Minerva General 	110 	55 	0 	60 	25 	60 	50 	0
+Minerva Sniper 	90 	50 	0 	60 	55 	60 	30 	0
+Minerva Swordmaster 	90 	50 	0 	60 	55 	60 	25 	0
+Minerva Sage / Bishop 	70 	25 	20 	60 	45 	60 	5 	25
+Etzel 	General 	120 	15 	5 	60 	30 	40 	75 	10
+Etzel   Hero 	110 	20 	0 	65 	50 	40 	55 	10
+Etzel   Warrior 	130 	40 	0 	65 	40 	40 	50 	5
+Etzel   Horseman 	100 	20 	5 	55 	55 	40 	50 	5
+Etzel   Berserker 	130 	30 	0 	55 	60 	40 	45 	5
+Etzel   Sorcerer 	80 	0 	40 	60 	50 	40 	30 	40
+Merric 	Cavalier / Paladin 	90 	15 	0 	70 	60 	70 	45 	0
+Merric  Dracoknight 	80 	10 	0 	65 	75 	70 	40 	5
+Merric  Archer / Sniper 	90 	10 	0 	65 	80 	70 	40 	0
+Merric  Myrmidon / Swordmaster 	90 	10 	0 	65 	80 	70 	35 	0
+Merric  Mage 	70 	0 	40 	65 	65 	70 	15 	15
+Merric  Sage / Bishop 	70 	0 	30 	65 	70 	70 	15 	25
+Merric  Curate 	70 	0 	20 	60 	70 	70 	20 	35
+Ellerean 	Cavalier / Paladin 	100 	15 	0 	55 	40 	30 	55 	0
+Ellerean    Dracoknight 	90 	10 	0 	50 	55 	30 	50 	0
+Ellerean    Archer / Sniper 	100 	10 	0 	50 	60 	30 	50 	0
+Ellerean    Myrmidon / Swordmaster 	100 	10 	0 	50 	60 	30 	45 	0
+Ellerean    Mage 	80 	0 	40 	50 	45 	30 	25 	10
+Ellerean    Sage / Bishop 	80 	0 	30 	50 	50 	30 	25 	20
+Ellerean    Curate 	80 	0 	20 	45 	50 	30 	30 	30
+Dice 	Knight / General 	80 	35 	0 	40 	30 	40 	40 	10
+Dice    Mercenary / Hero 	70 	40 	0 	45 	50 	40 	20 	10
+Dice    Fighter / Warrior 	90 	60 	0 	45 	40 	40 	15 	5
+Dice    Hunter / Horseman 	60 	40 	0 	35 	55 	40 	15 	5
+Dice    Pirate / Berserker 	90 	50 	0 	35 	60 	40 	10 	5
+Dice    Dark Mage / Sorcerer 	40 	5 	20 	40 	50 	40 	0 	40
+Maris 	Peg / Falco / Draco Knight 	60 	40 	0 	60 	55 	50 	10 	15
+Maris   Cavalier / Paladin 	70 	45 	5 	65 	40 	50 	15 	10
+Maris   General 	90 	45 	0 	60 	30 	50 	30 	5
+Maris   Archer / Sniper 	70 	40 	5 	60 	60 	50 	10 	5
+Maris   Myrmidon / Swordmaster 	70 	40 	5 	60 	60 	50 	5 	10
+Maris   Mage 	50 	20 	45 	60 	45 	50 	0 	25
+Maris   Sage / Bishop 	50 	15 	35 	60 	50 	50 	0 	35
+Maris   Cleric 	50 	15 	25 	55 	50 	50 	0 	45
+Horace 	General 	100 	55 	0 	45 	30 	35 	70 	0
+Horace  Hero 	90 	60 	0 	50 	50 	35 	50 	0
+Horace  Warrior 	110 	80 	0 	50 	40 	35 	45 	0
+Horace  Horseman 	80 	60 	0 	40 	55 	35 	45 	0
+Horace  Berserker 	110 	70 	0 	40 	60 	35 	40 	0
+Horace  Sorcerer 	60 	25 	20 	45 	50 	35 	25 	30
+Jake 	General 	90 	65 	0 	60 	70 	70 	60 	10
+Jake    Hero 	80 	70 	0 	65 	90 	70 	40 	10
+Jake    Warrior 	100 	90 	0 	65 	80 	70 	35 	5
+Jake    Horseman 	70 	70 	0 	55 	95 	70 	35 	5
+Jake    Berserker 	100 	80 	0 	55 	100 	70 	30 	5
+Jake    Sorcerer 	50 	35 	30 	60 	90 	70 	15 	40
+Darros 	General 	90 	50 	0 	45 	20 	40 	60 	0
+Darros  Hero 	80 	55 	0 	50 	40 	40 	40 	0
+Darros  Warrior 	100 	75 	0 	50 	30 	40 	35 	0
+Darros  Horseman 	70 	55 	0 	40 	45 	40 	35 	0
+Darros  Berserker 	100 	65 	0 	40 	50 	40 	30 	0
+Darros  Sorcerer 	50 	20 	20 	45 	40 	40 	15 	20
+Robert 	General 	100 	55 	0 	70 	40 	50 	45 	10
+Robert  Hero 	90 	60 	0 	75 	60 	50 	25 	10
+Robert  Warrior 	110 	80 	0 	75 	50 	50 	20 	5
+Robert  Horseman 	80 	60 	0 	65 	65 	50 	20 	5
+Robert  Berserker 	110 	70 	0 	65 	70 	50 	15 	5
+Robert  Sorcerer 	60 	25 	20 	70 	60 	50 	0 	40
+Belf 	Cavalier / Paladin 	80 	55 	0 	55 	40 	40 	25 	0
+Belf    Dracoknight 	70 	50 	0 	50 	55 	40 	20 	0
+Belf    Archer / Sniper 	80 	50 	0 	50 	60 	40 	20 	0
+Belf    Myrmidon / Swordmaster 	80 	50 	0 	50 	60 	40 	15 	0
+Belf    Mage 	60 	30 	30 	50 	45 	40 	0 	10
+Belf    Sage / Bishop 	60 	25 	20 	50 	50 	40 	0 	20
+Belf    Curate 	60 	25 	10 	45 	50 	40 	0 	30
+Leiden 	Cavalier / Paladin 	70 	50 	0 	65 	50 	40 	20 	5
+Leiden  Dracoknight 	60 	45 	0 	60 	65 	40 	15 	10
+Leiden  Archer / Sniper 	70 	45 	0 	60 	70 	40 	15 	0
+Leiden  Myrmidon / Swordmaster 	70 	45 	0 	60 	70 	40 	10 	5
+Leiden  Mage 	50 	25 	30 	60 	55 	40 	0 	20
+Leiden  Sage / Bishop 	50 	20 	20 	60 	60 	40 	0 	30
+Leiden  Curate 	50 	20 	10 	55 	60 	40 	0 	40
+Beck 	General 	100 	45 	5 	60 	40 	30 	60 	0
+Beck    Hero 	90 	50 	0 	65 	60 	30 	40 	0
+Beck    Warrior 	110 	70 	0 	65 	50 	30 	35 	0
+Beck    Horseman 	80 	50 	5 	55 	65 	30 	35 	0
+Beck    Berserker 	110 	60 	0 	55 	70 	30 	30 	0
+Beck    Sorcerer 	60 	15 	40 	60 	60 	30 	15 	25
+Athena 	Peg / Falco / Draco Knight 	65 	40 	0 	60 	65 	65 	30 	15
+Athena  Cavalier / Paladin 	75 	45 	0 	65 	50 	65 	35 	10
+Athena  General 	95 	45 	0 	60 	40 	65 	50 	5
+Athena  Archer / Sniper 	75 	40 	0 	60 	70 	65 	30 	5
+Athena  Myrmidon / Swordmaster 	75 	40 	0 	60 	70 	65 	25 	10
+Athena  Mage 	55 	20 	35 	60 	55 	65 	5 	25
+Athena  Sage / Bishop 	55 	15 	25 	60 	60 	65 	5 	35
+Athena  Cleric 	55 	15 	15 	55 	60 	65 	10 	45
+Xane 	Chameleon 	60 	40 	0 	20 	50 	40 	30 	5
+Tiki 	Manakete 	90 	50 	20 	80 	80 	90 	20 	5
+Est 	Peg / Falco / Draco Knight 	60 	80 	0 	80 	80 	70 	30 	10
+Est Cavalier / Paladin 	70 	85 	0 	85 	65 	70 	35 	5
+Est General 	90 	85 	0 	80 	55 	70 	50 	0
+Est Archer / Sniper 	70 	80 	0 	80 	85 	70 	30 	0
+Est Myrmidon / Swordmaster 	70 	80 	0 	80 	85 	70 	25 	5
+Est Mage 	50 	60 	40 	80 	70 	70 	5 	20
+Est Sage / Bishop 	50 	55 	30 	80 	75 	70 	5 	30
+Est Cleric 	50 	55 	20 	75 	75 	70 	10 	40
+Dolph 	General 	90 	60 	0 	60 	20 	40 	55 	0
+Dolph   Hero 	80 	65 	0 	65 	40 	40 	35 	0
+Dolph   Warrior 	100 	85 	0 	65 	30 	40 	30 	0
+Dolph   Horseman 	70 	65 	0 	55 	45 	40 	30 	0
+Dolph   Berserker 	100 	75 	0 	55 	50 	40 	25 	0
+Dolph   Sorcerer 	50 	30 	20 	60 	40 	40 	10 	25
+Abel 	Paladin 	100 	60 	0 	60 	60 	40 	40 	5
+Abel    Dracoknight 	90 	55 	0 	55 	75 	40 	35 	10
+Abel    Sniper 	100 	55 	0 	55 	80 	40 	35 	0
+Abel    Swordmaster 	100 	55 	0 	55 	80 	40 	30 	5
+Abel    Sage / Bishop 	80 	30 	20 	55 	70 	40 	10 	30
+Abel    General 	100 	75 	0 	50 	40 	50 	70 	5
+Abel    Hero 	90 	80 	0 	55 	60 	50 	50 	5
+Abel    Warrior 	110 	100 	0 	55 	50 	50 	45 	0
+Abel    Horseman 	80 	80 	0 	45 	65 	50 	45 	0
+Abel    Berserker 	110 	90 	0 	45 	70 	50 	40 	0
+Abel    Sorcerer 	60 	45 	25 	50 	60 	50 	25 	35
+Astram 	General 	110 	55 	0 	45 	20 	60 	45 	0
+Astram  Hero 	100 	60 	0 	50 	40 	60 	25 	0
+Astram  Warrior 	120 	80 	0 	50 	30 	60 	20 	0
+Astram  Horseman 	90 	60 	0 	40 	45 	60 	20 	0
+Astram  Berserker 	120 	70 	0 	40 	50 	60 	15 	0
+Astram  Sorcerer 	70 	25 	20 	45 	40 	60 	0 	25
+Katarina 	Dracoknight 	90 	10 	5 	70 	80 	70 	45 	20
+Katarina    Paladin 	100 	15 	10 	75 	65 	70 	50 	15
+Katarina    General 	120 	15 	5 	70 	55 	70 	65 	10
+Katarina    Sniper 	100 	10 	10 	70 	85 	70 	45 	10
+Katarina    Swordmaster 	100 	10 	10 	70 	85 	70 	40 	15
+Katarina    Sage / Bishop 	80 	0 	40 	70 	75 	70 	20 	40
+Tomas 	Paladin 	90 	70 	0 	75 	50 	50 	35 	10
+Tomas   Dracoknight 	80 	65 	0 	70 	65 	50 	30 	15
+Tomas   Sniper 	90 	65 	0 	70 	70 	50 	30 	5
+Tomas   Swordmaster 	90 	65 	0 	70 	70 	50 	25 	10
+Tomas   Sage / Bishop 	70 	40 	20 	70 	60 	50 	5 	35
+Sheema 	Dracoknight 	50 	65 	0 	65 	85 	80 	20 	20
+Sheema  Paladin 	60 	70 	0 	70 	70 	80 	25 	15
+Sheema  General 	80 	70 	0 	65 	60 	80 	40 	10
+Sheema  Sniper 	60 	65 	0 	65 	90 	80 	20 	10
+Sheema  Swordmaster 	60 	65 	0 	65 	90 	80 	15 	15
+Sheema  Sage / Bishop 	40 	40 	20 	65 	80 	80 	0 	40
+Samson 	General 	100 	45 	0 	30 	10 	70 	55 	0
+Samson  Hero 	90 	50 	0 	35 	30 	70 	35 	0
+Samson  Warrior 	110 	70 	0 	35 	20 	70 	30 	0
+Samson  Horseman 	80 	50 	0 	25 	35 	70 	30 	0
+Samson  Berserker 	110 	60 	0 	25 	40 	70 	25 	0
+Samson  Sorcerer 	60 	15 	20 	30 	30 	70 	10 	25
+Frost 	Paladin 	90 	30 	10 	55 	40 	20 	35 	5
+Frost   Dracoknight 	80 	25 	5 	50 	55 	20 	30 	10
+Frost   Sniper 	90 	25 	10 	50 	60 	20 	30 	0
+Frost   Swordmaster 	90 	25 	10 	50 	60 	20 	25 	5
+Frost   Sage / Bishop 	70 	0 	40 	50 	50 	20 	5 	30
+Roshea 	Paladin 	95 	50 	0 	60 	50 	70 	40 	10
+Roshea  Dracoknight 	85 	45 	0 	55 	65 	70 	35 	15
+Roshea  Sniper 	95 	45 	0 	55 	70 	70 	35 	5
+Roshea  Swordmaster 	95 	45 	0 	55 	70 	70 	30 	10
+Roshea  Sage / Bishop 	75 	20 	20 	55 	60 	70 	10 	35
+Vyland 	Paladin 	80 	60 	0 	45 	60 	50 	50 	0
+Vyland  Dracoknight 	70 	55 	0 	40 	75 	50 	45 	5
+Vyland  Sniper 	80 	55 	0 	40 	80 	50 	45 	0
+Vyland  Swordmaster 	80 	55 	0 	40 	80 	50 	40 	0
+Vyland  Sage / Bishop 	60 	30 	20 	40 	70 	50 	20 	25
+Sedgar 	General 	110 	55 	0 	70 	45 	40 	70 	0
+Sedgar  Hero 	100 	60 	0 	75 	65 	40 	50 	0
+Sedgar  Warrior 	120 	80 	0 	75 	55 	40 	45 	0
+Sedgar  Horseman 	90 	60 	0 	65 	70 	40 	45 	0
+Sedgar  Berserker 	120 	70 	0 	65 	75 	40 	40 	0
+Sedgar  Sorcerer 	70 	25 	25 	70 	65 	40 	25 	30
+Wolf 	General 	110 	65 	0 	60 	45 	60 	60 	0
+Wolf    Hero 	100 	70 	0 	65 	65 	60 	40 	0
+Wolf    Warrior 	120 	90 	0 	65 	55 	60 	35 	0
+Wolf    Horseman 	90 	70 	0 	55 	70 	60 	35 	0
+Wolf    Berserker 	120 	80 	0 	55 	75 	60 	30 	0
+Wolf    Sorcerer 	70 	35 	25 	60 	65 	60 	15 	25
+Midia 	Dracoknight 	80 	35 	0 	55 	75 	20 	40 	20
+Midia   Paladin 	90 	40 	0 	60 	60 	20 	45 	15
+Midia   General 	110 	40 	0 	55 	50 	20 	60 	10
+Midia   Sniper 	90 	35 	0 	55 	80 	20 	40 	10
+Midia   Swordmaster 	90 	35 	0 	55 	80 	20 	35 	15
+Midia   Sage / Bishop 	70 	10 	20 	55 	70 	20 	15 	40
+Caesar 	Cavalier / Paladin 	80 	45 	0 	45 	45 	30 	30 	5
+Caesar  Dracoknight 	70 	40 	0 	40 	60 	30 	25 	10
+Caesar  Archer / Sniper 	80 	40 	0 	40 	65 	30 	25 	0
+Caesar  Myrmidon / Swordmaster 	80 	40 	0 	40 	65 	30 	20 	5
+Caesar  Mage 	60 	20 	40 	40 	50 	30 	0 	20
+Caesar  Sage / Bishop 	60 	15 	30 	40 	55 	30 	0 	30
+Caesar  Curate 	60 	15 	20 	35 	55 	30 	5 	40
+Radd 	Knight / General 	100 	55 	0 	45 	35 	50 	45 	0
+Radd    Mercenary / Hero 	90 	60 	0 	50 	55 	50 	25 	0
+Radd    Fighter / Warrior 	110 	80 	0 	50 	45 	50 	20 	0
+Radd    Hunter / Horseman 	80 	60 	0 	40 	60 	50 	20 	0
+Radd    Pirate / Berserker 	110 	70 	0 	40 	65 	50 	15 	0
+Radd    Dark Mage / Sorcerer 	60 	25 	20 	45 	55 	50 	0 	30
+Radd    Nabarl 	Knight / General 	110 	50 	0 	50 	40 	70 	45 	0
+Radd    Mercenary / Hero 	100 	55 	0 	55 	60 	70 	25 	0
+Radd    Fighter / Warrior 	120 	75 	0 	55 	50 	70 	20 	0
+Radd    Hunter / Horseman 	90 	55 	0 	45 	65 	70 	20 	0
+Radd    Pirate / Berserker 	120 	65 	0 	45 	70 	70 	15 	0
+Radd    Dark Mage / Sorcerer 	70 	20 	20 	50 	60 	70 	0 	30
+Cain 	Knight / General 	110 	40 	0 	65 	60 	70 	50 	0
+Cain    Mercenary / Hero 	100 	45 	0 	70 	80 	70 	30 	0
+Cain    Fighter / Warrior 	120 	65 	0 	70 	70 	70 	25 	0
+Cain    Hunter / Horseman 	90 	45 	0 	60 	85 	70 	25 	0
+Cain    Pirate / Berserker 	120 	55 	0 	60 	90 	70 	20 	0
+Cain    Dark Mage / Sorcerer 	70 	10 	20 	65 	80 	70 	5 	30
+Roger 	Cavalier / Paladin 	60 	60 	0 	55 	50 	70 	40 	5
+Roger   Dracoknight 	50 	55 	0 	50 	65 	70 	35 	10
+Roger   Archer / Sniper 	60 	55 	0 	50 	70 	70 	35 	0
+Roger   Myrmidon / Swordmaster 	60 	55 	0 	50 	70 	70 	30 	5
+Roger   Mage 	40 	35 	30 	50 	55 	70 	10 	20
+Roger   Sage / Bishop 	40 	30 	20 	50 	60 	70 	10 	30
+Roger   Curate 	40 	30 	10 	45 	60 	70 	15 	40
+Jeorge 	General 	100 	45 	0 	35 	15 	50 	60 	0
+Jeorge  Hero 	90 	50 	0 	40 	35 	50 	40 	0
+Jeorge  Warrior 	110 	70 	0 	40 	25 	50 	35 	0
+Jeorge  Horseman 	80 	50 	0 	30 	40 	50 	35 	0
+Jeorge  Berserker 	110 	60 	0 	30 	45 	50 	30 	0
+Jeorge  Sorcerer 	60 	15 	20 	35 	35 	50 	15 	30
+Etzel 	Paladin 	100 	15 	10 	65 	40 	40 	60 	15
+Etzel   Dracoknight 	90 	10 	5 	60 	55 	40 	55 	20
+Etzel   Sniper 	100 	10 	10 	60 	60 	40 	55 	10
+Etzel   Swordmaster 	100 	10 	10 	60 	60 	40 	50 	15
+Etzel   Sage / Bishop 	80 	0 	40 	60 	50 	40 	30 	40
+Merric 	Knight / General 	110 	15 	0 	65 	50 	70 	60 	0
+Merric  Mercenary / Hero 	100 	20 	0 	70 	70 	70 	40 	0
+Merric  Fighter / Warrior 	120 	40 	0 	70 	60 	70 	35 	0
+Merric  Hunter / Horseman 	90 	20 	0 	60 	75 	70 	35 	0
+Merric  Pirate / Berserker 	120 	30 	0 	60 	80 	70 	30 	0
+Merric  Dark Mage / Sorcerer 	70 	0 	30 	65 	70 	70 	15 	25
+Ellerean 	Knight / General 	120 	15 	0 	50 	30 	30 	70 	0
+Ellerean    Mercenary / Hero 	110 	20 	0 	55 	50 	30 	50 	0
+Ellerean    Fighter / Warrior 	130 	40 	0 	55 	40 	30 	45 	0
+Ellerean    Hunter / Horseman 	100 	20 	0 	45 	55 	30 	45 	0
+Ellerean    Pirate / Berserker 	130 	30 	0 	45 	60 	30 	40 	0
+Ellerean    Dark Mage / Sorcerer 	80 	0 	30 	50 	50 	30 	25 	20
+Dice 	Cavalier / Paladin 	60 	35 	0 	45 	40 	40 	25 	15
+Dice    Dracoknight 	50 	30 	0 	40 	55 	40 	20 	20
+Dice    Archer / Sniper 	60 	30 	0 	40 	60 	40 	20 	10
+Dice    Myrmidon / Swordmaster 	60 	30 	0 	40 	60 	40 	15 	15
+Dice    Mage 	40 	10 	30 	40 	45 	40 	0 	30
+Dice    Sage / Bishop 	40 	5 	20 	40 	50 	40 	0 	40
+Dice    Curate 	40 	5 	10 	35 	50 	40 	0 	50
+Horace 	Paladin 	80 	55 	0 	50 	40 	35 	55 	5
+Horace  Dracoknight 	70 	50 	0 	45 	55 	35 	50 	10
+Horace  Sniper 	80 	50 	0 	45 	60 	35 	50 	0
+Horace  Swordmaster 	80 	50 	0 	45 	60 	35 	45 	5
+Horace  Sage / Bishop 	60 	25 	20 	45 	50 	35 	25 	30
+Jake 	Paladin 	70 	65 	0 	65 	80 	70 	45 	15
+Jake    Dracoknight 	60 	60 	0 	60 	95 	70 	40 	20
+Jake    Sniper 	70 	60 	0 	60 	100 	70 	40 	10
+Jake    Swordmaster 	70 	60 	0 	60 	100 	70 	35 	15
+Jake    Sage / Bishop 	50 	35 	30 	60 	90 	70 	15 	40
+Darros 	Paladin 	70 	50 	0 	50 	30 	40 	45 	0
+Darros  Dracoknight 	60 	45 	0 	45 	45 	40 	40 	0
+Darros  Sniper 	70 	45 	0 	45 	50 	40 	40 	0
+Darros  Swordmaster 	70 	45 	0 	45 	50 	40 	35 	0
+Darros  Sage / Bishop 	50 	20 	20 	45 	40 	40 	15 	20
+Robert 	Paladin 	80 	55 	0 	75 	50 	50 	30 	15
+Robert  Dracoknight 	70 	50 	0 	70 	65 	50 	25 	20
+Robert  Sniper 	80 	50 	0 	70 	70 	50 	25 	10
+Robert  Swordmaster 	80 	50 	0 	70 	70 	50 	20 	15
+Robert  Sage / Bishop 	60 	25 	20 	70 	60 	50 	0 	40
+Belf 	Knight / General 	100 	55 	0 	50 	30 	40 	40 	0
+Belf    Mercenary / Hero 	90 	60 	0 	55 	50 	40 	20 	0
+Belf    Fighter / Warrior 	110 	80 	0 	55 	40 	40 	15 	0
+Belf    Hunter / Horseman 	80 	60 	0 	45 	55 	40 	15 	0
+Belf    Pirate / Berserker 	110 	70 	0 	45 	60 	40 	10 	0
+Belf    Dark Mage / Sorcerer 	60 	25 	20 	50 	50 	40 	0 	20
+Leiden 	Knight / General 	90 	50 	0 	60 	40 	40 	35 	0
+Leiden  Mercenary / Hero 	80 	55 	0 	65 	60 	40 	15 	0
+Leiden  Fighter / Warrior 	100 	75 	0 	65 	50 	40 	10 	0
+Leiden  Hunter / Horseman 	70 	55 	0 	55 	65 	40 	10 	0
+Leiden  Pirate / Berserker 	100 	65 	0 	55 	70 	40 	5 	0
+Leiden  Dark Mage / Sorcerer 	50 	20 	20 	60 	60 	40 	0 	30
+Beck 	Paladin 	80 	45 	10 	65 	50 	30 	45 	0
+Beck    Dracoknight 	70 	40 	5 	60 	65 	30 	40 	5
+Beck    Sniper 	80 	40 	10 	60 	70 	30 	40 	0
+Beck    Swordmaster 	80 	40 	10 	60 	70 	30 	35 	0
+Beck    Sage / Bishop 	60 	15 	40 	60 	60 	30 	15 	25
+Dolph 	Paladin 	70 	60 	0 	65 	30 	40 	40 	0
+Dolph   Dracoknight 	60 	55 	0 	60 	45 	40 	35 	5
+Dolph   Sniper 	70 	55 	0 	60 	50 	40 	35 	0
+Dolph   Swordmaster 	70 	55 	0 	60 	50 	40 	30 	0
+Dolph   Sage / Bishop 	50 	30 	20 	60 	40 	40 	10 	25
+Abel 	General 	120 	60 	0 	55 	50 	40 	55 	0
+Abel    Hero 	110 	65 	0 	60 	70 	40 	35 	0
+Abel    Warrior 	130 	85 	0 	60 	60 	40 	30 	0
+Abel    Horseman 	100 	65 	0 	50 	75 	40 	30 	0
+Abel    Berserker 	130 	75 	0 	50 	80 	40 	25 	0
+Abel    Sorcerer 	80 	30 	20 	55 	70 	40 	10 	30
+Macellan 	Paladin 	80 	75 	0 	55 	50 	50 	55 	10
+Macellan    Dracoknight 	70 	70 	0 	50 	65 	50 	50 	15
+Macellan    Sniper 	80 	70 	0 	50 	70 	50 	50 	5
+Macellan    Swordmaster 	80 	70 	0 	50 	70 	50 	45 	10
+Macellan    Sage / Bishop 	60 	45 	25 	50 	60 	50 	25 	35
+Astram 	Paladin 	90 	55 	0 	50 	30 	60 	30 	0
+Astram  Dracoknight 	80 	50 	0 	45 	45 	60 	25 	5
+Astram  Sniper 	90 	50 	0 	45 	50 	60 	25 	0
+Astram  Swordmaster 	90 	50 	0 	45 	50 	60 	20 	0
+Astram  Sage / Bishop 	70 	25 	20 	45 	40 	60 	0 	25
+Tomas 	General 	110 	70 	0 	70 	40 	50 	50 	5
+Tomas   Hero 	100 	75 	0 	75 	60 	50 	30 	5
+Tomas   Warrior 	120 	95 	0 	75 	50 	50 	25 	0
+Tomas   Horseman 	90 	75 	0 	65 	65 	50 	25 	0
+Tomas   Berserker 	120 	85 	0 	65 	70 	50 	20 	0
+Tomas   Sorcerer 	70 	40 	20 	70 	60 	50 	5 	35
+Samson 	Paladin 	80 	45 	0 	35 	20 	70 	40 	0
+Samson  Dracoknight 	70 	40 	0 	30 	35 	70 	35 	5
+Samson  Sniper 	80 	40 	0 	30 	40 	70 	35 	0
+Samson  Swordmaster 	80 	40 	0 	30 	40 	70 	30 	0
+Samson  Sage / Bishop 	60 	15 	20 	30 	30 	70 	10 	25
+Frost 	General 	110 	30 	5 	50 	30 	20 	50 	0
+Frost   Hero 	100 	35 	0 	55 	50 	20 	30 	0
+Frost   Warrior 	120 	55 	0 	55 	40 	20 	25 	0
+Frost   Horseman 	90 	35 	5 	45 	55 	20 	25 	0
+Frost   Berserker 	120 	45 	0 	45 	60 	20 	20 	0
+Frost   Sorcerer 	70 	0 	40 	50 	50 	20 	5 	30
+Roshea 	General 	115 	50 	0 	55 	40 	70 	55 	5
+Roshea  Hero 	105 	55 	0 	60 	60 	70 	35 	5
+Roshea  Warrior 	125 	75 	0 	60 	50 	70 	30 	0
+Roshea  Horseman 	95 	55 	0 	50 	65 	70 	30 	0
+Roshea  Berserker 	125 	65 	0 	50 	70 	70 	25 	0
+Roshea  Sorcerer 	75 	20 	20 	55 	60 	70 	10 	35
+Vyland 	General 	100 	60 	0 	40 	50 	50 	65 	0
+Vyland  Hero 	90 	65 	0 	45 	70 	50 	45 	0
+Vyland  Warrior 	110 	85 	0 	45 	60 	50 	40 	0
+Vyland  Horseman 	80 	65 	0 	35 	75 	50 	40 	0
+Vyland  Berserker 	110 	75 	0 	35 	80 	50 	35 	0
+Vyland  Sorcerer 	60 	30 	20 	40 	70 	50 	20 	25
+Sedgar 	Paladin 	90 	55 	0 	75 	55 	40 	55 	5
+Sedgar  Dracoknight 	80 	50 	0 	70 	70 	40 	50 	10
+Sedgar  Sniper 	90 	50 	0 	70 	75 	40 	50 	0
+Sedgar  Swordmaster 	90 	50 	0 	70 	75 	40 	45 	5
+Sedgar  Sage / Bishop 	70 	25 	25 	70 	65 	40 	25 	30
+Wolf 	Paladin 	90 	65 	0 	65 	55 	60 	45 	0
+Wolf    Dracoknight 	80 	60 	0 	60 	70 	60 	40 	5
+Wolf    Sniper 	90 	60 	0 	60 	75 	60 	40 	0
+Wolf    Swordmaster 	90 	60 	0 	60 	75 	60 	35 	0
+Wolf    Sage / Bishop 	70 	35 	25 	60 	65 	60 	15 	25
+Ymir 	Paladin 	60 	65 	0 	45 	50 	35 	45 	0
+Ymir    Dracoknight 	50 	60 	0 	40 	65 	35 	40 	0
+Ymir    Sniper 	60 	60 	0 	40 	70 	35 	40 	0
+Ymir    Swordmaster 	60 	60 	0 	40 	70 	35 	35 	0
+Ymir    Sage / Bishop 	40 	35 	20 	40 	60 	35 	15 	20
+Michalis 	General 	120 	65 	0 	60 	30 	20 	60 	0
+Michalis    Hero 	110 	70 	0 	65 	50 	20 	40 	0
+Michalis    Warrior 	130 	90 	0 	65 	40 	20 	35 	0
+Michalis    Horseman 	100 	70 	0 	55 	55 	20 	35 	0
+Michalis    Berserker 	130 	80 	0 	55 	60 	20 	30 	0
+Michalis    Sorcerer 	80 	35 	20 	60 	50 	20 	15 	30
+Ymir 	General 	80 	65 	0 	40 	40 	35 	60 	0
+Ymir    Hero 	70 	70 	0 	45 	60 	35 	40 	0
+Ymir    Warrior 	90 	90 	0 	45 	50 	35 	35 	0
+Ymir    Horseman 	60 	70 	0 	35 	65 	35 	35 	0
+Ymir    Berserker 	90 	80 	0 	35 	70 	35 	30 	0
+Ymir    Sorcerer 	40 	35 	20 	40 	60 	35 	15 	20
+Michalis 	Paladin 	100 	65 	0 	65 	40 	20 	45 	5
+Michalis    Dracoknight 	90 	60 	0 	60 	55 	20 	40 	10
+Michalis    Sniper 	100 	60 	0 	60 	60 	20 	40 	0
+Michalis    Swordmaster 	100 	60 	0 	60 	60 	20 	35 	5
+Michalis    Sage / Bishop 	80 	35 	20 	60 	50 	20 	15 	30
+Nagi 	Manakete 	90 	50 	20 	80 	80 	90 	20 	5
+Lena 	Bishop 	35 	0 	45 	40 	30 	60 	10 	40
+Maria 	Bishop 	35 	0 	40 	40 	35 	75 	5 	40
+Nyna 	Bishop 	45 	0 	40 	50 	45 	45 	10 	40
+Elice 	Bishop 	60 	0 	50 	65 	70 	80 	20 	20
