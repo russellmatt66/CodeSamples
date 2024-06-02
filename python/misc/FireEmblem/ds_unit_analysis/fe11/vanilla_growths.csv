@@ -1,0 +1,335 @@
+Name,Class,HP,Str,Mag,Skl,Spd,Lck,Def,Res
+Marth,	Lord,80,50,0,40,50,70,20,2
+Frey,Cavalier/Paladin,80,35,0,55,55,45,20,0
+Frey,Dracoknight,70,30,0,50,70,45,15,5
+Frey,Archer/Sniper,80,30,0,50,75,45,15,0
+Frey,Myrmidon/Swordmaster,90,30,0,50,70,45,10,0
+Frey,Mage,60,10,35,50,60,45,0,15
+Frey,Sage/Bishop,60,5,25,50,65,45,0,25
+Frey,Curate,60,5,15,45,65,45,0,35
+Abel,Cavalier/Paladin,65,40,0,50,50,25,20,0
+Abel,Dracoknight,55,35,0,45,65,25,15,5
+Abel,Archer/Sniper,65,35,0,45,70,25,15,0
+Abel,Myrmidon/Swordmaster,75,35,0,45,65,25,10,0
+Abel,Mage,45,15,35,45,55,25,0,15
+Abel,Sage/Bishop,45,10,25,45,60,25,0,25
+Abel,Curate,45,10,15,40,60,25,0,35
+Cain,Cavalier/Paladin,75,35,0,50,50,40,20,0
+Cain,Dracoknight,65,30,0,45,65,40,15,5
+Cain,Archer/Sniper,75,30,0,45,70,40,15,0
+Cain,Myrmidon/Swordmaster,85,30,0,45,65,40,10,0
+Cain,Mage,55,10,35,45,55,40,0,15
+Cain,Sage/Bishop,55,5,25,45,60,40,0,25
+Cain,Curate,55,5,15,40,60,40,0,35
+Jagen,	Paladin,40,20,0,35,15,30,20,0
+Jagen,Dracoknight,30,15,0,30,30,30,15,5
+Jagen,Sniper,40,15,0,30,35,30,15,0
+Jagen,Swordmaster,50,15,0,30,30,30,10,0
+Jagen,Sage/Bishop,20,0,30,30,25,30,0,25
+Gordin,Cavalier/Paladin,60,25,0,45,15,40,35,0
+Gordin,Dracoknight,50,20,0,40,30,40,30,5
+Gordin,Archer/Sniper,60,20,0,40,35,40,30,0
+Gordin,Myrmidon/Swordmaster,70,20,0,40,30,40,25,0
+Gordin,Mage,40,0,30,40,20,40,5,15
+Gordin,Sage/Bishop,40,0,20,40,25,40,5,25
+Gordin,Curate,40,0,10,35,25,40,10,35
+Draug,Knight/General,60,20,0,40,40,30,30,0
+Draug,Mercenary/Hero,60,25,0,45,60,30,5,0
+Draug,Fighter/Warrior,80,45,0,35,50,30,0,0
+Draug,Hunter/Horseman,40,25,0,35,65,30,5,0
+Draug,Pirate/Berserker,80,45,0,35,50,30,0,0
+Draug,DarkMage/Sorcerer,20,0,25,40,60,30,0,20
+Norne,	Paladin,60,30,0,45,35,30,25,0
+Norne,Pegasus/FalconKnight,50,25,0,40,50,30,20,5
+Norne,Dracoknight,60,25,0,40,50,30,20,5
+Norne,Archer/Sniper,60,25,0,40,55,30,20,0
+Norne,Myrmidon/Swordmaster,70,25,0,40,50,30,15,0
+Norne,Mage,40,5,30,40,40,30,0,15
+Norne,Sage/Bishop,40,0,20,40,45,30,0,25
+Norne,Cleric,40,0,10,35,45,30,0,35
+Shiida,	Paladin,50,25,0,65,70,70,15,0
+Shiida,Pegasus/FalconKnight,40,20,0,60,85,70,10,0
+Shiida,Dracoknight,50,20,0,60,85,70,10,0
+Shiida,Archer/Sniper,50,20,0,60,90,70,10,0
+Shiida,Myrmidon/Swordmaster,60,20,0,60,85,70,5,0
+Shiida,Mage,30,0,35,60,75,70,0,10
+Shiida,Sage/Bishop,30,0,25,60,80,70,0,20
+Shiida,Cleric,30,0,15,55,80,70,0,30
+Wrys,Cavalier/Paladin,40,20,0,30,10,40,20,10
+Wrys,Dracoknight,30,15,0,25,25,40,15,15
+Wrys,Archer/Sniper,40,15,0,25,30,40,15,5
+Wrys,Myrmidon/Swordmaster,50,15,0,25,25,40,10,10
+Wrys,Mage,20,0,40,25,15,40,0,25
+Wrys,Sage/Bishop,20,0,30,25,20,40,0,35
+Wrys,Curate,20,0,20,20,20,40,0,45
+Ogma,Knight/General,90,35,0,35,10,40,45,0
+Ogma,Mercenary/Hero,90,40,0,40,30,40,20,0
+Ogma,Fighter/Warrior,110,60,0,30,20,40,15,0
+Ogma,Hunter/Horseman,70,40,0,30,35,40,20,0
+Ogma,Pirate/Berserker,110,60,0,30,20,40,15,0
+Ogma,DarkMage/Sorcerer,50,5,20,35,30,40,0,25
+Barst,Knight/General,60,15,0,45,20,40,45,0
+Barst,Mercenary/Hero,60,20,0,50,40,40,20,0
+Barst,Fighter/Warrior,80,40,0,40,30,40,15,0
+Barst,Hunter/Horseman,40,20,0,40,45,40,20,0
+Barst,Pirate/Berserker,80,40,0,40,30,40,15,0
+Barst,DarkMage/Sorcerer,20,0,20,45,40,40,0,20
+Bord,Knight/General,70,30,0,50,0,35,40,0
+Bord,Mercenary/Hero,70,35,0,55,20,35,15,0
+Bord,Fighter/Warrior,90,55,0,45,10,35,10,0
+Bord,Hunter/Horseman,50,35,0,45,25,35,15,0
+Bord,Pirate/Berserker,90,55,0,45,10,35,10,0
+Bord,DarkMage/Sorcerer,30,0,20,50,20,35,0,20
+Cord,Knight/General,60,25,0,25,30,40,40,0
+Cord,Mercenary/Hero,60,30,0,30,50,40,15,0
+Cord,Fighter/Warrior,80,50,0,20,40,40,10,0
+Cord,Hunter/Horseman,40,30,0,20,55,40,15,0
+Cord,Pirate/Berserker,80,50,0,20,40,40,10,0
+Cord,DarkMage/Sorcerer,20,0,30,25,50,40,0,30
+Castor,Knight/General,60,35,0,45,15,20,45,0
+Castor,Mercenary/Hero,60,40,0,50,35,20,20,0
+Castor,Fighter/Warrior,80,60,0,40,25,20,15,0
+Castor,Hunter/Horseman,40,40,0,40,40,20,20,0
+Castor,Pirate/Berserker,80,60,0,40,25,20,15,0
+Castor,DarkMage/Sorcerer,20,5,25,45,35,20,0,20
+Darros,Knight/General,70,35,0,25,0,40,60,0
+Darros,Mercenary/Hero,70,40,0,30,20,40,35,0
+Darros,Fighter/Warrior,90,60,0,20,10,40,30,0
+Darros,Hunter/Horseman,50,40,0,20,25,40,35,0
+Darros,Pirate/Berserker,90,60,0,20,10,40,30,0
+Darros,DarkMage/Sorcerer,30,5,20,25,20,40,15,20
+Julian,	Thief,80,50,0,50,50,80,30,2
+Lena,	Paladin,35,15,5,35,10,60,15,15
+Lena,Pegasus/FalconKnight,25,10,0,30,25,60,10,20
+Lena,Dracoknight,35,10,0,30,25,60,10,20
+Lena,Archer/Sniper,35,10,5,30,30,60,10,10
+Lena,Myrmidon/Swordmaster,45,10,5,30,25,60,5,15
+Lena,Mage,15,0,45,30,15,60,0,30
+Lena,Sage/Bishop,15,0,35,30,20,60,0,40
+Lena,Cleric,15,0,25,25,20,60,0,50
+Nabarl,Cavalier/Paladin,80,35,0,45,35,40,20,0
+Nabarl,Dracoknight,70,30,0,40,50,40,15,0
+Nabarl,Archer/Sniper,80,30,0,40,55,40,15,0
+Nabarl,Myrmidon/Swordmaster,90,30,0,40,50,40,10,0
+Nabarl,Mage,60,10,35,40,40,40,0,10
+Nabarl,Sage/Bishop,60,5,25,40,45,40,0,20
+Nabarl,Curate,60,5,15,35,45,40,0,30
+Merric,Cavalier/Paladin,80,15,0,55,35,45,35,5
+Merric,Dracoknight,70,10,0,50,50,45,30,10
+Merric,Archer/Sniper,80,10,0,50,55,45,30,0
+Merric,Myrmidon/Swordmaster,90,10,0,50,50,45,25,5
+Merric,Mage,60,0,40,50,40,45,5,20
+Merric,Sage/Bishop,60,0,30,50,45,45,5,30
+Merric,Curate,60,0,20,45,45,45,10,40
+Matthis,Cavalier/Paladin,90,40,0,30,20,30,30,0
+Matthis,Dracoknight,80,35,0,25,35,30,25,5
+Matthis,Archer/Sniper,90,35,0,25,40,30,25,0
+Matthis,Myrmidon/Swordmaster,100,35,0,25,35,30,20,0
+Matthis,Mage,70,15,30,25,25,30,0,15
+Matthis,Sage/Bishop,70,10,20,25,30,30,0,25
+Matthis,Curate,70,10,10,20,30,30,5,35
+Hardin,Cavalier/Paladin,50,30,0,55,55,30,20,0
+Hardin,Dracoknight,40,25,0,50,70,30,15,5
+Hardin,Archer/Sniper,50,25,0,50,75,30,15,0
+Hardin,Myrmidon/Swordmaster,60,25,0,50,70,30,10,0
+Hardin,Mage,30,5,30,50,60,30,0,15
+Hardin,Sage/Bishop,30,0,20,50,65,30,0,25
+Hardin,Curate,30,0,10,45,65,30,0,35
+Wolf,	General,180,95,0,90,60,50,90,0
+Wolf,Hero,180,100,0,95,80,50,65,0
+Wolf,Warrior,200,120,0,85,70,50,60,0
+Wolf,Horseman,160,100,0,85,85,50,65,0
+Wolf,Berserker,200,120,0,85,70,50,60,0
+Wolf,Sorcerer,140,65,25,90,80,50,45,20
+Sedgar,	General,180,75,0,100,60,30,110,0
+Sedgar,Hero,180,80,0,105,80,30,85,0
+Sedgar,Warrior,200,100,0,95,70,30,80,0
+Sedgar,Horseman,160,80,0,95,85,30,85,0
+Sedgar,Berserker,200,100,0,95,70,30,80,0
+Sedgar,Sorcerer,140,45,25,100,80,30,65,20
+Roshea,Cavalier/Paladin,90,40,0,55,10,10,20,0
+Roshea,Dracoknight,80,35,0,50,25,10,15,5
+Roshea,Archer/Sniper,90,35,0,50,30,10,15,0
+Roshea,Myrmidon/Swordmaster,100,35,0,50,25,10,10,0
+Roshea,Mage,70,15,30,50,15,10,0,15
+Roshea,Sage/Bishop,70,10,20,50,20,10,0,25
+Roshea,Curate,70,10,10,45,20,10,0,35
+Vyland,Cavalier/Paladin,60,30,0,25,40,30,15,0
+Vyland,Dracoknight,50,25,0,20,55,30,10,5
+Vyland,Archer/Sniper,60,25,0,20,60,30,10,0
+Vyland,Myrmidon/Swordmaster,70,25,0,20,55,30,5,0
+Vyland,Mage,40,5,30,20,45,30,0,15
+Vyland,Sage/Bishop,40,0,20,20,50,30,0,25
+Vyland,Curate,40,0,10,15,50,30,0,35
+Wendell,	Paladin,60,15,0,25,10,40,20,10
+Wendell,Dracoknight,50,10,0,20,25,40,15,15
+Wendell,Sniper,60,10,0,20,30,40,15,5
+Wendell,Swordmaster,70,10,0,20,25,40,10,10
+Wendell,Sage/Bishop,40,0,20,20,20,40,0,35
+Rickard,	Thief,50,50,0,30,50,40,10,2
+Athena,	Paladin,65,30,0,45,35,25,20,0
+Athena,Pegasus/FalconKnight,55,25,0,40,50,25,15,0
+Athena,Dracoknight,65,25,0,40,50,25,15,0
+Athena,Archer/Sniper,65,25,0,40,55,25,15,0
+Athena,Myrmidon/Swordmaster,75,25,0,40,50,25,10,0
+Athena,Mage,45,5,35,40,40,25,0,10
+Athena,Sage/Bishop,45,0,25,40,45,25,0,20
+Athena,Cleric,45,0,15,35,45,25,0,30
+Bantu,	Manakete,40,20,10,20,10,10,10,0
+Caesar,Knight/General,90,35,0,30,25,20,40,0
+Caesar,Mercenary/Hero,90,40,0,35,45,20,15,0
+Caesar,Fighter/Warrior,110,60,0,25,35,20,10,0
+Caesar,Hunter/Horseman,70,40,0,25,50,20,15,0
+Caesar,Pirate/Berserker,110,60,0,25,35,20,10,0
+Caesar,DarkMage/Sorcerer,50,5,30,30,45,20,0,25
+Caesar,Radd	Cavalier/Paladin,70,45,0,40,30,40,30,0
+Caesar,Dracoknight,60,40,0,35,45,40,25,0
+Caesar,Archer/Sniper,70,40,0,35,50,40,25,0
+Caesar,Myrmidon/Swordmaster,80,40,0,35,45,40,20,0
+Caesar,Mage,50,20,30,35,35,40,0,10
+Caesar,Sage/Bishop,50,15,20,35,40,40,0,20
+Caesar,Curate,50,15,10,30,40,40,5,30
+Roger,Knight/General,70,50,0,30,10,80,30,0
+Roger,Mercenary/Hero,70,55,0,35,30,80,5,0
+Roger,Fighter/Warrior,90,75,0,25,20,80,0,0
+Roger,Hunter/Horseman,50,55,0,25,35,80,5,0
+Roger,Pirate/Berserker,90,75,0,25,20,80,0,0
+Roger,DarkMage/Sorcerer,30,20,20,30,30,80,0,25
+Jeorge,	Paladin,40,25,0,55,20,20,15,0
+Jeorge,Dracoknight,30,20,0,50,35,20,10,5
+Jeorge,Sniper,40,20,0,50,40,20,10,0
+Jeorge,Swordmaster,50,20,0,50,35,20,5,0
+Jeorge,Sage/Bishop,20,0,25,50,30,20,0,25
+Maria,	Paladin,35,15,0,35,15,75,10,15
+Maria,Pegasus/FalconKnight,25,10,0,30,30,75,5,20
+Maria,Dracoknight,35,10,0,30,30,75,5,20
+Maria,Archer/Sniper,35,10,0,30,35,75,5,10
+Maria,Myrmidon/Swordmaster,45,10,0,30,30,75,0,15
+Maria,Mage,15,0,40,30,20,75,0,30
+Maria,Sage/Bishop,15,0,30,30,25,75,0,40
+Maria,Cleric,15,0,20,25,25,75,0,50
+Minerva,	Paladin,40,40,0,55,20,40,35,0
+Minerva,Dracoknight,40,35,0,50,35,40,30,0
+Minerva,Sniper,40,35,0,50,40,40,30,0
+Minerva,Swordmaster,50,35,0,50,35,40,25,0
+Minerva,Sage/Bishop,20,10,20,50,30,40,5,20
+Linde,	Paladin,60,15,10,45,30,60,15,0
+Linde,Pegasus/FalconKnight,50,10,5,40,45,60,10,5
+Linde,Dracoknight,60,10,5,40,45,60,10,5
+Linde,Archer/Sniper,60,10,10,40,50,60,10,0
+Linde,Myrmidon/Swordmaster,70,10,10,40,45,60,5,0
+Linde,Mage,40,0,50,40,35,60,0,15
+Linde,Sage/Bishop,40,0,40,40,40,60,0,25
+Linde,Cleric,40,0,30,35,40,60,0,35
+Jake,	Ballistician,40,30,0,50,20,50,20,0
+Midia,	Paladin,80,30,0,50,50,10,20,0
+Midia,Dracoknight,80,25,0,45,65,10,15,5
+Midia,Sniper,80,25,0,45,70,10,15,0
+Midia,Swordmaster,90,25,0,45,65,10,10,0
+Midia,Sage/Bishop,60,0,20,45,60,10,0,25
+Dolph,Knight/General,70,30,0,40,30,10,45,0
+Dolph,Mercenary/Hero,70,35,0,45,50,10,20,0
+Dolph,Fighter/Warrior,90,55,0,35,40,10,15,0
+Dolph,Hunter/Horseman,50,35,0,35,55,10,20,0
+Dolph,Pirate/Berserker,90,55,0,35,40,10,15,0
+Dolph,DarkMage/Sorcerer,30,0,25,40,50,10,0,20
+Macellan,Knight/General,60,35,0,25,25,30,30,0
+Macellan,Mercenary/Hero,60,40,0,30,45,30,5,0
+Macellan,Fighter/Warrior,80,60,0,20,35,30,0,0
+Macellan,Hunter/Horseman,40,40,0,20,50,30,5,0
+Macellan,Pirate/Berserker,80,60,0,20,35,30,0,0
+Macellan,DarkMage/Sorcerer,20,5,20,25,45,30,0,25
+Tomas,Cavalier/Paladin,65,30,0,35,30,25,15,5
+Tomas,Dracoknight,55,25,0,30,45,25,10,10
+Tomas,Archer/Sniper,65,25,0,30,50,25,10,0
+Tomas,Myrmidon/Swordmaster,75,25,0,30,45,25,5,5
+Tomas,Mage,45,5,30,30,35,25,0,20
+Tomas,Sage/Bishop,45,0,20,30,40,25,0,30
+Tomas,Curate,45,0,10,25,40,25,0,40
+Boah,	Paladin,30,15,0,25,10,20,15,5
+Boah,Dracoknight,20,10,0,20,25,20,10,10
+Boah,Sniper,30,10,0,20,30,20,10,0
+Boah,Swordmaster,40,10,0,20,25,20,5,5
+Boah,Sage/Bishop,10,0,20,20,20,20,0,30
+Horace,	General,60,15,0,35,10,15,35,0
+Horace,Hero,60,20,0,40,30,15,10,0
+Horace,Warrior,80,40,0,30,20,15,5,0
+Horace,Horseman,40,20,0,30,35,15,10,0
+Horace,Berserker,80,40,0,30,20,15,5,0
+Horace,Sorcerer,20,0,25,35,30,15,0,20
+Beck,	Ballistician,60,25,0,30,40,35,25,0
+Astram,	General,90,45,0,35,0,50,35,0
+Astram,Hero,90,50,0,40,20,50,10,0
+Astram,Warrior,110,70,0,30,10,50,5,0
+Astram,Horseman,70,50,0,30,25,50,10,0
+Astram,Berserker,110,70,0,30,10,50,5,0
+Astram,Sorcerer,50,15,25,35,20,50,0,25
+Palla,	Paladin,70,60,0,75,10,10,30,5
+Palla,Pegasus/FalconKnight,60,55,0,70,25,10,25,10
+Palla,Dracoknight,70,55,0,70,25,10,25,10
+Palla,Archer/Sniper,70,55,0,70,30,10,25,0
+Palla,Myrmidon/Swordmaster,80,55,0,70,25,10,20,5
+Palla,Mage,50,35,30,70,15,10,0,20
+Palla,Sage/Bishop,50,30,20,70,20,10,0,30
+Palla,Cleric,50,30,10,65,20,10,5,40
+Catria,	Paladin,70,50,0,85,50,40,30,0
+Catria,Pegasus/FalconKnight,60,45,0,80,65,40,25,5
+Catria,Dracoknight,70,45,0,80,65,40,25,5
+Catria,Archer/Sniper,70,45,0,80,70,40,25,0
+Catria,Myrmidon/Swordmaster,80,45,0,80,65,40,20,0
+Catria,Mage,50,25,30,80,55,40,0,15
+Catria,Sage/Bishop,50,20,20,80,60,40,0,25
+Catria,Cleric,50,20,10,75,60,40,5,35
+Arran,	Paladin,50,50,0,30,40,40,15,5
+Arran,Dracoknight,40,45,0,25,55,40,10,10
+Arran,Sniper,50,45,0,25,60,40,10,0
+Arran,Swordmaster,60,45,0,25,55,40,5,5
+Arran,Sage/Bishop,30,20,20,25,50,40,0,30
+Samson,	General,70,30,0,20,5,55,40,0
+Samson,Hero,70,35,0,25,25,55,15,0
+Samson,Warrior,90,55,0,15,15,55,10,0
+Samson,Horseman,50,35,0,15,30,55,15,0
+Samson,Berserker,90,55,0,15,15,55,10,0
+Samson,Sorcerer,30,0,25,20,25,55,0,25
+Xane,	Chameleon,40,30,0,30,30,20,15,2
+Etzel,	General,80,15,0,40,20,20,35,0
+Etzel,Hero,80,20,0,45,40,20,10,0
+Etzel,Warrior,100,40,0,35,30,20,5,0
+Etzel,Horseman,60,20,0,35,45,20,10,0
+Etzel,Berserker,100,40,0,35,30,20,5,0
+Etzel,Sorcerer,40,0,30,40,40,20,0,30
+Est,	Paladin,50,60,0,65,40,50,25,0
+Est,Pegasus/FalconKnight,40,55,0,60,55,50,20,5
+Est,Dracoknight,50,55,0,60,55,50,20,5
+Est,Archer/Sniper,50,55,0,60,60,50,20,0
+Est,Myrmidon/Swordmaster,60,55,0,60,55,50,15,0
+Est,Mage,30,35,30,60,45,50,0,15
+Est,Sage/Bishop,30,30,20,60,50,50,0,25
+Est,Cleric,30,30,10,55,50,50,0,35
+Tiki,	Manakete,90,50,10,80,80,90,20,2
+Lorenz,	General,70,50,0,70,20,40,30,0
+Lorenz,Hero,70,55,0,75,40,40,5,0
+Lorenz,Warrior,90,75,0,65,30,40,0,0
+Lorenz,Horseman,50,55,0,65,45,40,5,0
+Lorenz,Berserker,90,75,0,65,30,40,0,0
+Lorenz,Sorcerer,30,20,20,70,40,40,0,25
+Ymir,	General,70,25,0,30,20,25,40,0
+Ymir,Hero,70,30,0,35,40,25,15,0
+Ymir,Warrior,90,50,0,25,30,25,10,0
+Ymir,Horseman,50,30,0,25,45,25,15,0
+Ymir,Berserker,90,50,0,25,30,25,10,0
+Ymir,Sorcerer,30,0,20,30,40,25,0,20
+Elice,	Paladin,80,15,10,60,50,80,25,0
+Elice,Pegasus/FalconKnight,70,10,5,55,65,80,20,0
+Elice,Dracoknight,80,10,5,55,65,80,20,0
+Elice,Archer/Sniper,80,10,10,55,70,80,20,0
+Elice,Myrmidon/Swordmaster,90,10,10,55,65,80,15,0
+Elice,Mage,60,0,50,55,55,80,0,10
+Elice,Sage/Bishop,60,0,40,55,60,80,0,20
+Elice,Cleric,60,0,30,50,60,80,0,30
+Nagi,	Manakete,90,50,10,80,80,90,20,2
+Gotoh,	Paladin,80,15,0,55,50,80,15,5
+Gotoh,Dracoknight,70,10,0,50,65,80,10,10
+Gotoh,Sniper,80,10,0,50,70,80,10,0
+Gotoh,Swordmaster,90,10,0,50,65,80,5,5
+Gotoh,Sage/Bishop,60,0,20,50,60,80,0,30
