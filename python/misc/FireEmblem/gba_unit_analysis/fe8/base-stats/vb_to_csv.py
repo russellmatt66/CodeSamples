@@ -1,11 +1,12 @@
 import pandas as pd
 
 def parseBaseStats(char_bases: str, data_dict: dict, features: list) -> None:
-    print(len(features))
-    print(len(char_bases))
+    # print(len(features))
+    # print(len(char_bases))
     i = 0
     for feature in features:
         # print(char_bases[i])
+        print(char_bases[i])
         data_dict[feature].append(char_bases[i])
         i += 1
     return
