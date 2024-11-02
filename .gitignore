@@ -1,3 +1,8 @@
 cpp/LeetCode/KnightDialer
 
 python/misc/WordCount/test/
+
+c/parallel/build/CMakeFiles/*
+c/parallel/build/*.cmake
+c/parallel/build/CMakeCache.txt
+c/parallel/build/Makefile
