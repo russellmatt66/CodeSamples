@@ -1,12 +1,12 @@
-~~~~~~~~~~~~~
-LEETCODE EASY
-~~~~~~~~~~~~~
-plusOne/ 
-- Solution to LeetCoe 66E
+# Summary
+Various code samples, and small projects, written in C
 
-~~~~~~~~~~~~~
-MISCELLANEOUS
-~~~~~~~~~~~~~
+# Directory Structure
+`parallel/`
+- MPI projects 
 
-matrix.h - Header file that implements a Matrix class that is stored in row-major order
+`leetcode/`
+- LeetCode problems solved in C
 
+`misc/`
+- Miscellaneous snippets
