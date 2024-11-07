@@ -7,8 +7,8 @@ from itertools import combinations
 # Brute-force solution
 # O(2^N)
 # https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/
-class Solution:
-    def largestCombinationBC(self, candidates: list[int]) -> int:
+class SolutionBF:
+    def largestCombinationBF(self, candidates: list[int]) -> int:
         max_length = 0
 
         comb_dict = {}
@@ -39,8 +39,8 @@ def createCandidates(length: int, int_min: int, int_max: int) -> list[int]:
     return candidates
 
 def main(candidates: list[int]) -> int:
-    sol = Solution()
-    max_length = sol.largestCombinationBC(candidates)
+    sol = SolutionBF()
+    max_length = sol.largestCombinationBF(candidates)
     return max_length
 
 if __name__ == "__main__":
