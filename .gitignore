@@ -1,8 +1,17 @@
-cpp/LeetCode/KnightDialer
-
-python/misc/WordCount/test/
+c/data-structures/linked-list/build/*
+!c/data-structures/linked-list/build/README.md
+!c/data-structures/linked-list/build/sll
+c/data-structures/linked-list/build/sll/* 
+!c/data-structures/linked-list/build/sll/README.md
 
 c/parallel/build/CMakeFiles/*
 c/parallel/build/*.cmake
 c/parallel/build/CMakeCache.txt
 c/parallel/build/Makefile
+
+cpp/LeetCode/KnightDialer
+
+python/leetcode/medium/2275_LargestCombination/__pycache__/*
+
+python/misc/createStaircase/__pycache__/*
+python/misc/WordCount/test/
