@@ -1,0 +1,38 @@
+~~~
+Strength (Su,M,Tu,W,Th,F,Sa)
+W1: r,A,r,B,r,C,r  
+W2: r,B,r,A,r,r,B
+W3: r,A,r,B,r,r,C
+W4: r,B,r,A,r,r,B
+~~~
+START
+
+A:
+MaxEffortJumps
+Squat-3x5
+OHP-3x5
+Deadlift-5x5*
+Chinups-5x5
+BenchNG-3x5
+5x50s
+
+B:
+PowerClean-5x3*
+Squat-5x5
+BenchWG-5x5
+PendlayRow-5x5
+Sled-5x6*
+
+C:
+MaxEffortJumps
+Squat-3x5
+PushPress-5x5
+Deadlift-5x5*
+Chinups-5x5
+5x50s
+
+END
+~~~
+*Pyramid
+**Top-set + Backoffs
+~~~
