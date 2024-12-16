@@ -1,10 +1,10 @@
-~~~
-Hyper (Su,M,Tu,W,Th,F,Sa)
-W1: r,A,r,B,r,C,r  
+SCHEDULE
+W1: r,A,r,B,r,r,C  
 W2: r,B,r,A,r,r,B
 W3: r,A,r,B,r,r,C
 W4: r,B,r,A,r,r,B
-~~~
+END
+
 START
 
 A:
@@ -32,7 +32,3 @@ PendlayRow-5x8
 5x50s
 
 END
-~~~
-*Pyramid
-**Top-set + Backoffs
-~~~
